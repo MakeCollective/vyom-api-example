@@ -425,6 +425,7 @@ Response:
 
 `
 {
+
     "status": 200,
     "data": {
         "packageDetails": {
@@ -734,6 +735,7 @@ Response:
                    
                "package_availability_id": "67974e5f7c9efbaafaca00c3"
 }
+
 `
 
 
