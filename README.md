@@ -148,10 +148,12 @@ Payload:
 
 
 Note:( To use service_priority (PRIMARY & ALTERNATE) parameters in package detail api).
- 1. Get the  package_id from the package search response.
-2.The service_priority is "PRIMARY" option  the main or default choice for accommodation and rental
+1 Get the  package_id from the package search response.
+2The service_priority is "PRIMARY" option  the main or default choice for accommodation and rental
 3.if the service_priority is "PRIMARY" option is unavailable then The alternate is the secondary option for accommodation and rental .
 In activities consider included:1, included:0 is for suggestion only which can be given to customer as a choice to add in package
+
+
 Response:
 
 `
