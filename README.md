@@ -390,7 +390,7 @@ Response:
                 },
                 "display_city": "Stay in Queenstown",
                 "start_city": 14
-            },
+            }
            
             }
         }
