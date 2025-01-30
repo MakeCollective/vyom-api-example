@@ -65,6 +65,7 @@ Makebookingsonline API Doc for Packages
 
 
 Note:
+
 1. package_transport should be seat_in_coach,self_drive,private_touring and no_transport.
 2. package_types should be family,honeymoon,activity and adventure.
 3. Limit : number of packages on each page.
@@ -413,14 +414,12 @@ In activities consider included:1, included:0 is for suggestion only which can b
 }
 ```
 
-
-
 Note:
 
 1. Getting the package_id from package search api response.
 2. checkAvailability will return the packageDetails + packageDetailsDaywise + the “package_availability_id
 
-To use the Include and NOT Include parameter in package availability api .
+To use the Include and NOT Include parameter in package availability api
 
 1. if include "1" it's count into the package .
 2. if include "0" it's not counted into the package ,it's only for option choice.
@@ -781,6 +780,7 @@ Search for the activities on the day you wish to book in the package.
 Response:
 
 Step 4.Get activity option.
+
 ### ApiName: activities/getActivitiesOptions
 ### Endpoint `https://apiuat.makebookingsonline.com/api/v1/activities/getActivitiesOptions
 ### Payload:
@@ -901,6 +901,7 @@ Get getUpdatedPrice.(Redzy)
 ```
 
 Get getUpdatedPrice.(Livn)
+
 ### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice`
 ### Payload:
 
@@ -926,6 +927,7 @@ Get getUpdatedPrice.(Livn)
 
 
 To Add activities into Package:
+
 ### ApiName:activities/addService
 ### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/packages/activities/addService`
 ### Payload:
@@ -974,8 +976,10 @@ Edit activities
 ```
 
 Note:
-Step 1.For edit services use the same above api.
-Step 2.if service_mode is “edit” then package_service_id is required.
+
+1. For edit services use the same above api.
+2. if service_mode is “edit” then package_service_id is required.
+
 Response:
 
 
@@ -1035,6 +1039,7 @@ Step 2.
 ```
 
 Note:
+
 1. Get search_index and supplier_id from accommodation search response api.
 2. getRoomType api return room_available_id and accommodation_availability_id.
 
@@ -1042,6 +1047,7 @@ Response:
 
 
 Step 3.add accommodation  into package.
+
 ### ApiName:accom/addService
 ### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/packages/accom/addService`
 ### Payload:
@@ -1060,6 +1066,7 @@ Step 3.add accommodation  into package.
 ```
 
 Note:
+
 1. package_availability_id is getting from package availability api.
 2. accommodation_availability_id,room_available_id are getting from getRoomType api from accommodation.
 3. service_day and service_mode are mandatory.
@@ -1138,7 +1145,7 @@ Note:
 5. Rental_number_of_days is mandatory .
 
 Response:
-=
+
 Step 2.
 ### ApiName:rental/pick-and-drop-time
 ### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/rental/pick-and-drop-time`
@@ -1153,6 +1160,7 @@ Step 2.
 ```
 
 Note:
+
 1. Location_id and service_date are getting from quotes api response.
 2. Here service_date is booking date .
 3. Location_id and service_date both are mandatory .
@@ -1160,6 +1168,7 @@ Note:
 Response:
 
 Step 3.get a single quotes
+
 ### ApiName:rental/single-quotes
 ### Endpoint `https://apiuat.makebookingsonline.com/api/v1/rental/single-quotes`
 ### Payload:
@@ -1187,12 +1196,14 @@ Step 3.get a single quotes
 ```
 
 Note:
+
 1. get the requirement_id from quotes api response.
 2. vendor_slug,start_date,end_date,pickup_time,dropoff_time,pickup_location,dropoff_location,supplier_id,sipp_code,coverage_type, driver_age these are the mandatory fields.
 
 Response:
 
 Step 4.to add rental into package.
+
 ### ApiName:rental/addservice
 ### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/packages/rental/addservice`
 ### Payload:
@@ -1222,6 +1233,7 @@ Response:
 
 
 Package Remove service:
+
 ### Endpoint `https://apiuat.makebookingsonline.com/api/v1/packages/removeService`
 ### ApiName:packages/removeService
 ### Payload:
@@ -1298,6 +1310,7 @@ Save guest details:
 ```
 
 packages/confirm
+
 ### ApiName: packages/confirm
 ### Endpoint `https://apiuat.makebookingsonline.com/api/v1/packages/confirm`
 ### Payload:
