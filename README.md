@@ -1,63 +1,66 @@
 # vyom-api-example
 
-# based on the following documentation we attempt to use the api to acheive the following user stories:
+Based on the following documentation, we attempt to use the API to achieve the following user stories:
 
-Use Cases all use cases start at the point where they have already chosen a package 
+## Use Cases
 
-### Happy path User picks a package that they like and books it
+All use cases start at the point where the user has already chosen a package.
 
-User views the package details
-User selects dates and number of guests
-User reviews the package and can see that everything is available
-User add guests with their details
-User confirms the package
-User is redirected to payment gateway
+### Happy Path: User picks a package that they like and books it
 
-### Partially available package some of the accomodation and/or activities are not available.  The user must edit the package to remove / replace the unavailable package components.
+1. User views the package details.
+2. User selects dates and number of guests.
+3. User reviews the package and can see that everything is available.
+4. User adds guests with their details.
+5. User confirms the package.
+6. User is redirected to the payment gateway.
 
-User views the package details
-User selects dates and number of guests
-User reviews the package and can see that 1 - n of the package components are not available 
-User has to click the remove package button.
-User has the option to add some other activity / accomodation
-User add guests with their details
-User confirms the package
-User is redirected to payment gateway
+### Partially Available Package: Some of the accommodation and/or activities are not available. The user must edit the package to remove/replace the unavailable package components.
 
-### Customised package user decides to change the package, by adding / removing accomodation and/or activities.
+1. User views the package details.
+2. User selects dates and number of guests.
+3. User reviews the package and can see that 1 - n of the package components are not available.
+4. User has to click the "Remove Package" button.
+5. User has the option to add some other activity/accommodation.
+6. User adds guests with their details.
+7. User confirms the package.
+8. User is redirected to the payment gateway.
 
-User views the package details
-User selects dates and number of guests
-User reviews the package and can see that everything is available
-User edits the package
-User removes accomodation/activity
-User adds accomodation/activity
-User add guests with their details
-User confirms the package
-User is redirected to payment gateway
+### Customised Package: User decides to change the package by adding/removing accommodation and/or activities.
 
+1. User views the package details.
+2. User selects dates and number of guests.
+3. User reviews the package and can see that everything is available.
+4. User edits the package.
+5. User removes accommodation/activity.
+6. User adds accommodation/activity.
+7. User adds guests with their details.
+8. User confirms the package.
+9. User is redirected to the payment gateway.
 
-## API Documentation:
+## API Documentation
 
-MBO-Package API DOC
+### MBO-Package API DOC
+
 Makebookingsonline API Doc for Packages
-Search package
-ApiName:packages/v2/search
-EndPoint:-https://apiuat.makebookingsonline.com/api/v1/packages/v2/search
-Payload:
 
+#### Search Package
 
-`
-   {
+- **ApiName:** `packages/v2/search`
+- **### Endpoint:** `https://apiuat.makebookingsonline.com/api/v1/packages/v2/search`
+- **### Payload:**
+
+```json
+{
     "country_code": "NZ",
     "package_transport": "",
     "package_types": "",
     "no_of_days": "1-3",
     "limit": 10,
-    "offset":0,
+    "offset": 0,
     "sort_by": "price_asc"
 }
-`
+`````
 
 
 
@@ -68,7 +71,7 @@ Note:
 Response:
 -
 
-`
+```json
 {
 
     "status": 200,
@@ -125,7 +128,7 @@ Response:
     ],
     "totalCount": 2
 }
-`
+`````
 
 
 
@@ -135,15 +138,15 @@ Response:
 
 Step 2. Get Package details
 ApiName:packages/v2/details
-EndPoint:https://apiuat.makebookingsonline.com/api/v1/packages/v2/details
-Payload:
+### Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/v2/details
+### Payload:
 
 
-`
+```json
 {
     "package_id": "67972042045444f07263651a"
 }
-`
+```
 
 
 
@@ -156,7 +159,7 @@ In activities consider included:1, included:0 is for suggestion only which can b
 
 Response:
 
-`
+```json
 {
     "status": 200,
     "data": {
@@ -391,15 +394,15 @@ Response:
             }
         }
     }
-`
+```
 
 
 ApiName: packages/checkAvailability
-EndPoint: https://apiuat.makebookingsonline.com/api/v1/packages/checkAvailability
-Payload:
+### Endpoint: https://apiuat.makebookingsonline.com/api/v1/packages/checkAvailability
+### Payload:
 
 
-`
+```json
 {
     "package_id" : "67972042045444f07263651a",
     "start_date": "2025-03-09",
@@ -413,7 +416,7 @@ Payload:
     ]
    
 }
-`
+```
 
 
 
@@ -425,7 +428,7 @@ To use the Include and NOT Include parameter in package availability api .
 2.if include "0" it's not counted into the package ,it's only for option choice.
 Response:
 
-`
+```json
 {
 
     "status": 200,
@@ -744,28 +747,28 @@ Response:
 
 To Add activity into a package .
 First  city api call.
-Endpoint: -   https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=activities&country_code=NZ
-Payload:
+### Endpoint: -   https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=activities&country_code=NZ
+### Payload:
 
 
-`
+```json
 {
 
   "category_key": "activities",
   "country_code": "NZ"
 }
-`
+```
 
 
 
 Step 1.Get Activity search:
         Search for the activities on the day you wish to book in the package.
 ApiName:activities/search
-Endpoint:-https://apiuat.makebookingsonline.com/api/v1/activities/search
-Payload:
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/activities/search
+### Payload:
 
 
-`
+```json
 {
 
   "adult": 2,
@@ -785,7 +788,7 @@ Payload:
   "sort_order": "price_asc",
   "supplier_id": null
 }
-`
+```
 
 
 
@@ -794,18 +797,18 @@ Response:
 
 Step 4.Get activity option.
 ApiName: activities/getActivitiesOptions
-EndPoint:https://apiuat.makebookingsonline.com/api/v1/activities/getActivitiesOptions
-Payload:
+### Endpoint:https://apiuat.makebookingsonline.com/api/v1/activities/getActivitiesOptions
+### Payload:
 
 
-`
+```json
 {
     "supplier_id":1313,
     "search_index": "679752127c9efbaafaca00ed",
     "product_id": "13256",
     "vendor_name": "VYOM_ACTIVITY"
 }
-`
+```
 
 
 
@@ -813,7 +816,7 @@ Note:
 1.supplier_id,search_index,product_id,vendor_name these fields are getting from activity search api response.
 Response:
 
-`
+```json
 {
 
     "status": 200,
@@ -845,15 +848,15 @@ Response:
     },
     "activities_availability_id": "6BqyjMbOWCF73VHd1TzDVFeS4LS5iSF5"
 }
-`
+```
 
 Step 4.Get getUpdatedPrice : Vyom
 ApiName:activities/getUpdatedPrice
-EndPoint:https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
-Payload:
+### Endpoint:https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
+### Payload:
 
 
-`
+```json
 {
      "itinerary_id": 0,
      "activities_availability_id":"6BqyjMbOWCF73VHd1TzDVFeS4LS5iSF5",
@@ -870,7 +873,7 @@ Payload:
   }
  
 }
-`
+```
 
 
 
@@ -878,7 +881,7 @@ Note:
 1.This api used to get the update price number of pax .
 Response:
 
-`
+```json
 {
 
     "status": 200,
@@ -888,15 +891,15 @@ Response:
         "total_price": "84.89"
     }
 }
-`
+```
 
 
 Get getUpdatedPrice.(Redzy)
-Endpoint:-https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
-Payload:
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
+### Payload:
 
 
-`
+```json
 {
 
  "itinerary_id": 0,
@@ -912,18 +915,18 @@ Payload:
 "t-shirt": "1"
 }
 }
-`
+```
 
 
 Response:
 
 
 Get getUpdatedPrice.(Livn)
-Endpoint:-https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
-Payload:
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
+### Payload:
 
 
-`
+```json
 {
 
   "activities_availability_id": "jPGJz5TJEGoyVkCMY7L9xvVuAreh4wAN",
@@ -939,29 +942,29 @@ Payload:
   "start_date": "2025-03-09",
   "steps_id": 3202354
 }
-`
+```
 
 
 
 To Add activities into Package:
 ApiName:activities/addService
-Endpoint:-https://apiuat.makebookingsonline.com/api/v1/packages/activities/addService
-Payload:
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/packages/activities/addService
+### Payload:
 
 
-`
+```json
 {
 
    {
     "package_availability_id": "67974e5f7c9efbaafaca00c3",
-    "activities_availability_id" : "6BqyjMbOWCF73VHd1TzDVFeS4LS5iSF5
-",
+    "activities_availability_id" : "6BqyjMbOWCF73VHd1TzDVFeS4LS5iSF5",
     "service_day":1,
     "service_mode": "add",
     "start_time": "08:00:00 - 12:00:00",
      "package_service_id":0
+  }
 }
-}
+```
 
 
 Note:
@@ -975,10 +978,10 @@ Response:
 
 Edit activities
 ApiName:activities/addService
-Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/activities/addService
-Payload:
+### Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/activities/addService
+### Payload:
 
-`
+```json
 {
 
     "package_availability_id": "67974e5f7c9efbaafaca00c3",
@@ -988,7 +991,7 @@ Payload:
     "start_time": "14:00:00 - 14:30:00",
      "package_service_id":3
 }
-`
+```
 
 Note:
 Step 1.For edit services use the same above api.
@@ -998,24 +1001,24 @@ Response:
 
 Add accomodation into a package:
 First Call city api.
-Endpoint:-https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=accomodation&country_code=NZ
-Payload:
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=accomodation&country_code=NZ
+### Payload:
 
-`
+```json
 {
 
  "category_key": "accomodation",
  "country_code": "NZ"
 }
-`
+```
 
 Step 1.Get accommodation  search:
         Search for the accommodation on the day you wish to book into the package.
 ApiName:accomodation/v2/search
-Endpoint:-https://apiuat.makebookingsonline.com/api/v1/accomodation/v2/search
-Payload:
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/accomodation/v2/search
+### Payload:
 
-`
+```json
 {
 
     "check_in_date":"2025-03-09",
@@ -1031,7 +1034,7 @@ Payload:
     "offset":0,
     "limit":30
     }
-`
+```
 
 Response:
 
@@ -1039,16 +1042,16 @@ Response:
    
 Step 2.
 ApiName:accom/getRoomType
-Endpoint:https://apiuat.makebookingsonline.com/api/v1/accom/getRoomType
-Payload:
+### Endpoint:https://apiuat.makebookingsonline.com/api/v1/accom/getRoomType
+### Payload:
 
-`
+```json
 {
 
     "search_index":"67975f7f7c9efbaafaca01e8",
     "supplier_id":48
 }
-`
+```
 
 Note:
 1.Get search_index and supplier_id from accommodation search response api.
@@ -1059,10 +1062,10 @@ Response:
 
 Step 3.add accommodation  into package.
 ApiName:accom/addService
-Endpoint:-https://apiuat.makebookingsonline.com/api/v1/packages/accom/addService
-Payload:
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/packages/accom/addService
+### Payload:
 
-`
+```json
 {
 
     "package_availability_id": "67975cbd7c9efbaafaca0194",
@@ -1073,7 +1076,7 @@ Payload:
     "number_of_nights":2,
     "package_service_id":0
 }
-`
+```
 
 Note:
 1.package_availability_id is getting from package availability api.
@@ -1088,10 +1091,10 @@ Response:
 
 Edit accommodation:
 ApiName:accom/addService
-Endpoint:-https://apiuat.makebookingsonline.com/api/v1/packages/accom/addService
-Payload:
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/packages/accom/addService
+### Payload:
 
-`
+```json
 {
 
     "package_availability_id": "67975cbd7c9efbaafaca0194",
@@ -1102,7 +1105,7 @@ Payload:
     "number_of_nights":2,
     "package_service_id":3904
 }
-`
+```
 
 
 Note:
@@ -1113,16 +1116,16 @@ Response:
 
 
 Add Rental into a package:
-Endpoint:-https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=rental_cars&country_code=NZ
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=rental_cars&country_code=NZ
 ApiName:rental/quotes
 Search for the rental on the day you wish to book into the package.
-Endpoint:-https://apiuat.makebookingsonline.com/api/v1/rental/quotes
-Payload:
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/rental/quotes
+### Payload:
 
-`
+
+```json
 {
-
-   "pick_city": 14,
+  "pick_city": 14,
   "drop_city": 14,
   "booking_start_date": "2025-03-09",
   "booking_end_date": "2025-03-11",
@@ -1130,7 +1133,7 @@ Payload:
   "get_live_data": 1,
   "rental_number_of_days": 2,
   "coverage_type": "",
-  “offset": 0,
+  "offset": 0,
   "vendor_name": [
     "HERTZ",
     "THRIFTY",
@@ -1144,7 +1147,7 @@ Payload:
   },
   "sort_order": "price_asc"
 }
-`
+```
 
 Note:
 Step 1.Rental quotes Api will return list of car vendor wise according to search parameter.
@@ -1158,15 +1161,15 @@ Response:
 
 Step 2.
 ApiName:rental/pick-and-drop-time
-Endpoint:-https://apiuat.makebookingsonline.com/api/v1/rental/pick-and-drop-time
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/rental/pick-and-drop-time
 Payload
-`
+```json
 {
 
     "location_id": 4860,
     "service_date": "2025-03-09"
 }
-`
+```
 
 Note:
 Step 1. Location_id and service_date are getting from quotes api response.
@@ -1178,10 +1181,10 @@ Response:
 
 Step 3.get a single quotes
 ApiName:rental/single-quotes
-Endpoint:https://apiuat.makebookingsonline.com/api/v1/rental/single-quotes
-Payload:
+### Endpoint:https://apiuat.makebookingsonline.com/api/v1/rental/single-quotes
+### Payload:
 
-`
+```json
 {
 
     "requirement_id": "679767d27c9efbaafaca056f",
@@ -1201,7 +1204,7 @@ Payload:
        "coverage_type": 240,
     "driver_age": 25
 }
-`
+```
 
 
 Note:
@@ -1213,10 +1216,10 @@ Response:
 
 Step 4.to add rental into package.
 ApiName:rental/addservice
-Endpoint:-https://apiuat.makebookingsonline.com/api/v1/packages/rental/addservice
-Payload:
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/packages/rental/addservice
+### Payload:
 
-`
+```json
 {
 
     "package_availability_id":"679767bc7c9efbaafaca0509",
@@ -1226,7 +1229,7 @@ Payload:
     "rental_number_of_days":2,
     "package_service_id":0
 }
-`
+```
 
 
 Note:
@@ -1241,18 +1244,18 @@ Response:
 
 
 Package Remove service:
-Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/removeService
+### Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/removeService
 ApiName:packages/removeService
-Payload:
+### Payload:
 
-`
+```json
 {
 
     "service_day": 1,
     "package_service_id": 1,
     "package_availability_id": "679767bc7c9efbaafaca0509"
 }
-`
+```
 
 Note:packages/removeService api is used to remove services from the package.
 
@@ -1261,10 +1264,10 @@ Response:
 
 Add to cart:
 ApiName:packages/addToCart
-Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/addToCart
-Payload:
+### Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/addToCart
+### Payload:
 
-`
+```json
 {
 
     "reference_number" : "1299",
@@ -1273,30 +1276,30 @@ Payload:
     "itinerary_id": 0,
     "package_availability_id": "678f5229ae921ced4b3ec214"
 }
-`
+```
 
 
 Add guest details.
 ApiName:getGuestDetails
-EndPoint:-https://apiuat.makebookingsonline.com/api/v1/common/getGuestDetails
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/common/getGuestDetails
 
-Payload:
+### Payload:
 
-`
+```json
 {
 
  "booking_id": [],
  "itinerary_id": 7279
 }
-`
+```
 
 Save guest details:
 ApiNAme:saveGuestDetails
-EndPoint:-https://apiuat.makebookingsonline.com/api/v1/common/saveGuestDetails
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/common/saveGuestDetails
 
-Payload:
+### Payload:
 
-`
+```json
 {
 
   "booking_id": [6799],
@@ -1314,31 +1317,32 @@ Payload:
   },
   "itinerary_id": 7279
 }
-`
+```
 
 packages/confirm
 ApiName: packages/confirm
-Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/confirm
-Payload:
+### Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/confirm
+### Payload:
 
-`
+```json
 {
   "booking_id": [],
   "booking_reference_number": "can",
   "itinerary_id": 7279
   }
-`
+```
+
 Download_itinerary
 ApiName:download_itinerary?itinerary_id=7279&with_image=1&type=pdf
-Endpoint:-https://apiuat.makebookingsonline.com/api/v1/booking/download_itinerary?itinerary_id=7279&with_image=1&type=pdf
-Payload:
+### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/booking/download_itinerary?itinerary_id=7279&with_image=1&type=pdf
+### Payload:
 
-`
+```json
 {
 
   "itinerary_id": 7279,
   "with_image": 1,
   "type": "pdf"
 }
-`
+```
 
