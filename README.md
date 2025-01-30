@@ -135,8 +135,9 @@ Note:
 
 Step 2. Get Package details
 
-### ApiName:packages/v2/details
-### Endpoint `https://apiuat.makebookingsonline.com/api/v1/packages/v2/details
+### ApiName: packages/v2/details
+### Endpoint
+`https://apiuat.makebookingsonline.com/api/v1/packages/v2/details`
 ### Payload:
 
 
@@ -782,7 +783,8 @@ Response:
 Step 4.Get activity option.
 
 ### ApiName: activities/getActivitiesOptions
-### Endpoint `https://apiuat.makebookingsonline.com/api/v1/activities/getActivitiesOptions
+### Endpoint
+`https://apiuat.makebookingsonline.com/api/v1/activities/getActivitiesOptions
 ### Payload:
 
 
@@ -837,7 +839,8 @@ Note:
 Step 4.Get getUpdatedPrice : Vyom
 
 ### ApiName:activities/getUpdatedPrice
-### Endpoint `https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
+### Endpoint
+`https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
 ### Payload:
 
 ```json
@@ -960,7 +963,8 @@ Response:
 
 Edit activities
 ### ApiName:activities/addService
-### Endpoint `https://apiuat.makebookingsonline.com/api/v1/packages/activities/addService`
+### Endpoint
+`https://apiuat.makebookingsonline.com/api/v1/packages/activities/addService`
 ### Payload:
 
 ```json
@@ -1027,7 +1031,8 @@ Response:
    
 Step 2.
 ### ApiName:accom/getRoomType
-### Endpoint `https://apiuat.makebookingsonline.com/api/v1/accom/getRoomType`
+### Endpoint
+`https://apiuat.makebookingsonline.com/api/v1/accom/getRoomType`
 ### Payload:
 
 ```json
@@ -1170,7 +1175,8 @@ Response:
 Step 3.get a single quotes
 
 ### ApiName:rental/single-quotes
-### Endpoint `https://apiuat.makebookingsonline.com/api/v1/rental/single-quotes`
+### Endpoint
+`https://apiuat.makebookingsonline.com/api/v1/rental/single-quotes`
 ### Payload:
 
 ```json
@@ -1234,7 +1240,8 @@ Response:
 
 Package Remove service:
 
-### Endpoint `https://apiuat.makebookingsonline.com/api/v1/packages/removeService`
+### Endpoint
+`https://apiuat.makebookingsonline.com/api/v1/packages/removeService`
 ### ApiName:packages/removeService
 ### Payload:
 
@@ -1254,7 +1261,8 @@ Response:
 
 Add to cart:
 ### ApiName:packages/addToCart
-### Endpoint `https://apiuat.makebookingsonline.com/api/v1/packages/addToCart`
+### Endpoint
+`https://apiuat.makebookingsonline.com/api/v1/packages/addToCart`
 ### Payload:
 
 ```json
@@ -1312,7 +1320,8 @@ Save guest details:
 packages/confirm
 
 ### ApiName: packages/confirm
-### Endpoint `https://apiuat.makebookingsonline.com/api/v1/packages/confirm`
+### Endpoint
+`https://apiuat.makebookingsonline.com/api/v1/packages/confirm`
 ### Payload:
 
 ```json
