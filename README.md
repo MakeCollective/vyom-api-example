@@ -68,8 +68,9 @@ Note:
 1. package_transport should be seat_in_coach,self_drive,private_touring and no_transport.
 2. package_types should be family,honeymoon,activity and adventure.
 3. Limit : number of packages on each page.
-Response:
--
+
+### Response:
+
 
 ```json
 {
@@ -128,15 +129,11 @@ Response:
     ],
     "totalCount": 2
 }
-`````
-
-
-
-
-
+```
 
 
 Step 2. Get Package details
+
 ### ApiName:packages/v2/details
 ### Endpoint `https://apiuat.makebookingsonline.com/api/v1/packages/v2/details
 ### Payload:
@@ -148,17 +145,15 @@ Step 2. Get Package details
 }
 ```
 
-
-
 Note:( To use service_priority (PRIMARY & ALTERNATE) parameters in package detail api).
+
 1. Get the  package_id from the package search response.
 2. The service_priority is "PRIMARY" option  the main or default choice for accommodation and rental
 3. if the service_priority is "PRIMARY" option is unavailable then The alternate is the secondary option for accommodation and rental
 
 In activities consider included:1, included:0 is for suggestion only which can be given to customer as a choice to add in package
 
-
-Response:
+### Response:
 
 ```json
 {
@@ -179,13 +174,13 @@ Response:
             "dictated_start_date": "1970-01-01T00:00:00.000Z",
             "dictated_end_date": "1970-01-01T00:00:00.000Z",
             "inclusion": [
-                "Take a look of  amazing view of NewZealand ,beautiful mountain and nature "
+                "Take a look of amazing view of New Zealand, beautiful mountain and nature"
             ],
             "exclusion": [
-                "1-Government Service Tax as applicable on the above rates "
+                "1-Government Service Tax as applicable on the above rates"
             ],
             "highlight": [
-                "Take a look of  amazing view of NewZealand ,beautiful mountain and nature "
+                "Take a look of amazing view of New Zealand, beautiful mountain and nature"
             ],
             "country_code": "NZ",
             "images": [
@@ -292,7 +287,7 @@ Response:
                         "service_latitude": "",
                         "service_longitude": "",
                         "start_time": "09:35:00",
-                        "service_description": "Time conscious â€“ KJet offers an express Jet boat ride catering to your clientâ€™s needs. 30-40 Minutes of\r\nJet boating, departing from either Queenstown Marina, Frankton or the Main Town Pier, Queenstown Bay\r\n(*minimum numbers apply).",
+                        "service_description": "Time conscious – KJet offers an express Jet boat ride catering to your client’s needs. 30-40 Minutes of\r\nJet boating, departing from either Queenstown Marina, Frankton or the Main Town Pier, Queenstown Bay\r\n(*minimum numbers apply).",
                         "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/24333_doc_1696912556-0.jpg",
                         "vendor_name": "VYOM_ACTIVITY",
                         "price": 160.08299999999997,
@@ -341,7 +336,6 @@ Response:
                         ],
                         "included": 1
                     }
-                   
                 ],
                 "category_count": {
                     "accommodation": 2,
@@ -382,8 +376,8 @@ Response:
                             }
                         ],
                         "included": 1
-                    },
-                                       
+                    }
+                ],
                 "category_count": {
                     "accommodation": 2,
                     "rental_car": 2
@@ -391,10 +385,10 @@ Response:
                 "display_city": "Stay in Queenstown",
                 "start_city": 14
             }
-           
-            }
         }
     }
+}
+
 ```
 
 
@@ -422,6 +416,7 @@ Response:
 
 
 Note:
+
 1. Getting the package_id from package search api response.
 2. checkAvailability will return the packageDetails + packageDetailsDaywise + the “package_availability_id
 
@@ -739,13 +734,11 @@ To use the Include and NOT Include parameter in package availability api .
 
 ```
 
-
-
 To Add activity into a package .
 First  city api call.
+
 ### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=activities&country_code=NZ`
 ### Payload:
-
 
 ```json
 {
@@ -755,10 +748,9 @@ First  city api call.
 }
 ```
 
+Step 1. Get Activity search:
+Search for the activities on the day you wish to book in the package.
 
-
-Step 1.Get Activity search:
-        Search for the activities on the day you wish to book in the package.
 ### ApiName:activities/search
 ### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/activities/search
 ### Payload:
@@ -786,10 +778,7 @@ Step 1.Get Activity search:
 }
 ```
 
-
-
 Response:
-
 
 Step 4.Get activity option.
 ### ApiName: activities/getActivitiesOptions
@@ -806,11 +795,10 @@ Step 4.Get activity option.
 }
 ```
 
-
-
 Note:
-1.supplier_id,search_index,product_id,vendor_name these fields are getting from activity search api response.
-Response:
+1. supplier_id,search_index,product_id,vendor_name these fields are getting from activity search api response.
+
+### Response:
 
 ```json
 {
@@ -847,10 +835,10 @@ Response:
 ```
 
 Step 4.Get getUpdatedPrice : Vyom
+
 ### ApiName:activities/getUpdatedPrice
 ### Endpoint `https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
 ### Payload:
-
 
 ```json
 {
@@ -871,11 +859,10 @@ Step 4.Get getUpdatedPrice : Vyom
 }
 ```
 
-
-
 Note:
-1.This api used to get the update price number of pax .
-Response:
+1. This api used to get the update price number of pax .
+
+### Response:
 
 ```json
 {
@@ -889,8 +876,8 @@ Response:
 }
 ```
 
-
 Get getUpdatedPrice.(Redzy)
+
 ### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
 ### Payload:
 
@@ -912,10 +899,6 @@ Get getUpdatedPrice.(Redzy)
 }
 }
 ```
-
-
-Response:
-
 
 Get getUpdatedPrice.(Livn)
 ### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice`
@@ -964,11 +947,12 @@ To Add activities into Package:
 
 
 Note:
-1.Get package_availability_id from package checkAvailability api.
-2.Get activities_availability_id from  activity getActivitiesOptions api.
-3.service_day,service_mode are mandatory .
-4.service_mode must be “add” Or “edit”.
-5.if service_mode is “edit” then package_service_id is required.
+1. Get package_availability_id from package checkAvailability api.
+2. Get activities_availability_id from  activity getActivitiesOptions api.
+3. service_day,service_mode are mandatory .
+4. service_mode must be “add” Or “edit”.
+5. if service_mode is “edit” then package_service_id is required.
+
 Response:
 
 
@@ -1009,7 +993,8 @@ First Call city api.
 ```
 
 Step 1.Get accommodation  search:
-        Search for the accommodation on the day you wish to book into the package.
+Search for the accommodation on the day you wish to book into the package.
+
 ### ApiName:accomodation/v2/search
 ### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/accomodation/v2/search
 ### Payload:
@@ -1050,7 +1035,7 @@ Step 2.
 ```
 
 Note:
-1.Get search_index and supplier_id from accommodation search response api.
+1. Get search_index and supplier_id from accommodation search response api.
 2. getRoomType api return room_available_id and accommodation_availability_id.
 
 Response:
@@ -1075,12 +1060,12 @@ Step 3.add accommodation  into package.
 ```
 
 Note:
-1.package_availability_id is getting from package availability api.
-2.accommodation_availability_id,room_available_id are getting from getRoomType api from accommodation.
-3.service_day and service_mode are mandatory.
-4.Service_mode Must be “add “OR “edit”.
-5.if service_mode is “edit” then package_service_id is required .
-6.number_of_nights is mandatory.
+1. package_availability_id is getting from package availability api.
+2. accommodation_availability_id,room_available_id are getting from getRoomType api from accommodation.
+3. service_day and service_mode are mandatory.
+4. Service_mode Must be “add “OR “edit”.
+5. if service_mode is “edit” then package_service_id is required .
+6. number_of_nights is mandatory.
 
 Response:
 
@@ -1106,7 +1091,7 @@ Edit accommodation:
 
 Note:
 Step 1. Use the above api for edit accommodation .
-Step 2..if service_mode is “edit” then package_service_id is required .
+Step 2. if service_mode is “edit” then package_service_id is required .
 
 Response:
 
@@ -1114,10 +1099,10 @@ Response:
 Add Rental into a package:
 ### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=rental_cars&country_code=NZ`
 ### ApiName:rental/quotes
+
 Search for the rental on the day you wish to book into the package.
 ### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/rental/quotes`
 ### Payload:
-
 
 ```json
 {
@@ -1146,19 +1131,19 @@ Search for the rental on the day you wish to book into the package.
 ```
 
 Note:
-Step 1.Rental quotes Api will return list of car vendor wise according to search parameter.
-Step 2.if coverage_type is selected as a blank then it will return all types of coverage type.
-Step 3. If vendor_name is selected as a blank then it will return all vendor data .
-Step 4.if seating_capacity is selected as a blank then it will return all seating data .
-Step 4. Rental_number_of_days is mandatory .
+1. Rental quotes Api will return list of car vendor wise according to search parameter.
+2. if coverage_type is selected as a blank then it will return all types of coverage type.
+3. If vendor_name is selected as a blank then it will return all vendor data .
+4. if seating_capacity is selected as a blank then it will return all seating data .
+5. Rental_number_of_days is mandatory .
 
 Response:
-
-
+=
 Step 2.
 ### ApiName:rental/pick-and-drop-time
 ### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/rental/pick-and-drop-time`
-Payload
+### Payload:
+
 ```json
 {
 
@@ -1168,12 +1153,11 @@ Payload
 ```
 
 Note:
-Step 1. Location_id and service_date are getting from quotes api response.
-Step 2.Here service_date is booking date .
-Step 3. Location_id and service_date both are mandatory .
+1. Location_id and service_date are getting from quotes api response.
+2. Here service_date is booking date .
+3. Location_id and service_date both are mandatory .
 
 Response:
-
 
 Step 3.get a single quotes
 ### ApiName:rental/single-quotes
@@ -1202,13 +1186,11 @@ Step 3.get a single quotes
 }
 ```
 
-
 Note:
-Step 1.get the requirement_id from quotes api response.
-Step2.vendor_slug,start_date,end_date,pickup_time,dropoff_time,pickup_location,dropoff_location,supplier_id,sipp_code,coverage_type, driver_age these are the mandatory fields.
+1. get the requirement_id from quotes api response.
+2. vendor_slug,start_date,end_date,pickup_time,dropoff_time,pickup_location,dropoff_location,supplier_id,sipp_code,coverage_type, driver_age these are the mandatory fields.
 
 Response:
-
 
 Step 4.to add rental into package.
 ### ApiName:rental/addservice
