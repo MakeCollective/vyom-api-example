@@ -46,9 +46,9 @@ Makebookingsonline API Doc for Packages
 
 #### Search Package
 
-- **ApiName:** `packages/v2/search`
-- **### Endpoint:** `https://apiuat.makebookingsonline.com/api/v1/packages/v2/search`
-- **### Payload:**
+### ApiName: `packages/v2/search`
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/packages/v2/search`
+### Payload:
 
 ```json
 {
@@ -60,13 +60,13 @@ Makebookingsonline API Doc for Packages
     "offset": 0,
     "sort_by": "price_asc"
 }
-`````
+```
 
 
 
 Note:
-1.package_transport should be seat_in_coach,self_drive,private_touring and no_transport.
-2.package_types should be family,honeymoon,activity and adventure.
+1. package_transport should be seat_in_coach,self_drive,private_touring and no_transport.
+2. package_types should be family,honeymoon,activity and adventure.
 3. Limit : number of packages on each page.
 Response:
 -
@@ -137,8 +137,8 @@ Response:
 
 
 Step 2. Get Package details
-ApiName:packages/v2/details
-### Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/v2/details
+### ApiName:packages/v2/details
+### Endpoint `https://apiuat.makebookingsonline.com/api/v1/packages/v2/details
 ### Payload:
 
 
@@ -397,8 +397,8 @@ Response:
 ```
 
 
-ApiName: packages/checkAvailability
-### Endpoint: https://apiuat.makebookingsonline.com/api/v1/packages/checkAvailability
+### ApiName: packages/checkAvailability
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/packages/checkAvailability`
 ### Payload:
 
 
@@ -741,13 +741,13 @@ Response:
                "package_availability_id": "67974e5f7c9efbaafaca00c3"
 }
 
-`
+```
 
 
 
 To Add activity into a package .
 First  city api call.
-### Endpoint: -   https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=activities&country_code=NZ
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=activities&country_code=NZ`
 ### Payload:
 
 
@@ -763,8 +763,8 @@ First  city api call.
 
 Step 1.Get Activity search:
         Search for the activities on the day you wish to book in the package.
-ApiName:activities/search
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/activities/search
+### ApiName:activities/search
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/activities/search
 ### Payload:
 
 
@@ -796,8 +796,8 @@ Response:
 
 
 Step 4.Get activity option.
-ApiName: activities/getActivitiesOptions
-### Endpoint:https://apiuat.makebookingsonline.com/api/v1/activities/getActivitiesOptions
+### ApiName: activities/getActivitiesOptions
+### Endpoint `https://apiuat.makebookingsonline.com/api/v1/activities/getActivitiesOptions
 ### Payload:
 
 
@@ -851,8 +851,8 @@ Response:
 ```
 
 Step 4.Get getUpdatedPrice : Vyom
-ApiName:activities/getUpdatedPrice
-### Endpoint:https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
+### ApiName:activities/getUpdatedPrice
+### Endpoint `https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
 ### Payload:
 
 
@@ -895,7 +895,7 @@ Response:
 
 
 Get getUpdatedPrice.(Redzy)
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
 ### Payload:
 
 
@@ -922,7 +922,7 @@ Response:
 
 
 Get getUpdatedPrice.(Livn)
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/activities/getUpdatedPrice`
 ### Payload:
 
 
@@ -947,8 +947,8 @@ Get getUpdatedPrice.(Livn)
 
 
 To Add activities into Package:
-ApiName:activities/addService
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/packages/activities/addService
+### ApiName:activities/addService
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/packages/activities/addService`
 ### Payload:
 
 
@@ -977,8 +977,8 @@ Response:
 
 
 Edit activities
-ApiName:activities/addService
-### Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/activities/addService
+### ApiName:activities/addService
+### Endpoint `https://apiuat.makebookingsonline.com/api/v1/packages/activities/addService`
 ### Payload:
 
 ```json
@@ -1001,7 +1001,7 @@ Response:
 
 Add accomodation into a package:
 First Call city api.
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=accomodation&country_code=NZ
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=accomodation&country_code=NZ
 ### Payload:
 
 ```json
@@ -1014,8 +1014,8 @@ First Call city api.
 
 Step 1.Get accommodation  search:
         Search for the accommodation on the day you wish to book into the package.
-ApiName:accomodation/v2/search
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/accomodation/v2/search
+### ApiName:accomodation/v2/search
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/accomodation/v2/search
 ### Payload:
 
 ```json
@@ -1041,8 +1041,8 @@ Response:
 
    
 Step 2.
-ApiName:accom/getRoomType
-### Endpoint:https://apiuat.makebookingsonline.com/api/v1/accom/getRoomType
+### ApiName:accom/getRoomType
+### Endpoint `https://apiuat.makebookingsonline.com/api/v1/accom/getRoomType`
 ### Payload:
 
 ```json
@@ -1061,8 +1061,8 @@ Response:
 
 
 Step 3.add accommodation  into package.
-ApiName:accom/addService
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/packages/accom/addService
+### ApiName:accom/addService
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/packages/accom/addService`
 ### Payload:
 
 ```json
@@ -1090,8 +1090,8 @@ Response:
 
 
 Edit accommodation:
-ApiName:accom/addService
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/packages/accom/addService
+### ApiName:accom/addService
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/packages/accom/addService`
 ### Payload:
 
 ```json
@@ -1116,10 +1116,10 @@ Response:
 
 
 Add Rental into a package:
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=rental_cars&country_code=NZ
-ApiName:rental/quotes
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/master/city?category_key=rental_cars&country_code=NZ`
+### ApiName:rental/quotes
 Search for the rental on the day you wish to book into the package.
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/rental/quotes
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/rental/quotes`
 ### Payload:
 
 
@@ -1160,8 +1160,8 @@ Response:
 
 
 Step 2.
-ApiName:rental/pick-and-drop-time
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/rental/pick-and-drop-time
+### ApiName:rental/pick-and-drop-time
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/rental/pick-and-drop-time`
 Payload
 ```json
 {
@@ -1180,8 +1180,8 @@ Response:
 
 
 Step 3.get a single quotes
-ApiName:rental/single-quotes
-### Endpoint:https://apiuat.makebookingsonline.com/api/v1/rental/single-quotes
+### ApiName:rental/single-quotes
+### Endpoint `https://apiuat.makebookingsonline.com/api/v1/rental/single-quotes`
 ### Payload:
 
 ```json
@@ -1215,8 +1215,8 @@ Response:
 
 
 Step 4.to add rental into package.
-ApiName:rental/addservice
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/packages/rental/addservice
+### ApiName:rental/addservice
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/packages/rental/addservice`
 ### Payload:
 
 ```json
@@ -1233,19 +1233,19 @@ ApiName:rental/addservice
 
 
 Note:
-1.Taken the quote_ref_id from the single quotes api.
+1. Taken the quote_ref_id from the single quotes api.
 2. Taken the package_availability_id from package checkAvailability  api.
-3..service_day and service_mode are mandatory.
-4.Service_mode Must be “add “OR “edit”.
-5.if service_mode is “edit” then package_service_id is required .
-6.rental_number_of_days is mandatory.
+3. service_day and service_mode are mandatory.
+4. Service_mode Must be “add “OR “edit”.
+5. if service_mode is “edit” then package_service_id is required .
+6. rental_number_of_days is mandatory.
 
 Response:
 
 
 Package Remove service:
-### Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/removeService
-ApiName:packages/removeService
+### Endpoint `https://apiuat.makebookingsonline.com/api/v1/packages/removeService`
+### ApiName:packages/removeService
 ### Payload:
 
 ```json
@@ -1263,8 +1263,8 @@ Response:
 
 
 Add to cart:
-ApiName:packages/addToCart
-### Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/addToCart
+### ApiName:packages/addToCart
+### Endpoint `https://apiuat.makebookingsonline.com/api/v1/packages/addToCart`
 ### Payload:
 
 ```json
@@ -1280,8 +1280,8 @@ ApiName:packages/addToCart
 
 
 Add guest details.
-ApiName:getGuestDetails
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/common/getGuestDetails
+### ApiName:getGuestDetails
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/common/getGuestDetails`
 
 ### Payload:
 
@@ -1294,8 +1294,8 @@ ApiName:getGuestDetails
 ```
 
 Save guest details:
-ApiNAme:saveGuestDetails
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/common/saveGuestDetails
+### ApiName:saveGuestDetails
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/common/saveGuestDetails`
 
 ### Payload:
 
@@ -1320,8 +1320,8 @@ ApiNAme:saveGuestDetails
 ```
 
 packages/confirm
-ApiName: packages/confirm
-### Endpoint:https://apiuat.makebookingsonline.com/api/v1/packages/confirm
+### ApiName: packages/confirm
+### Endpoint `https://apiuat.makebookingsonline.com/api/v1/packages/confirm`
 ### Payload:
 
 ```json
@@ -1333,8 +1333,8 @@ ApiName: packages/confirm
 ```
 
 Download_itinerary
-ApiName:download_itinerary?itinerary_id=7279&with_image=1&type=pdf
-### Endpoint:-https://apiuat.makebookingsonline.com/api/v1/booking/download_itinerary?itinerary_id=7279&with_image=1&type=pdf
+### ApiName:download_itinerary?itinerary_id=7279&with_image=1&type=pdf
+### Endpoint: `https://apiuat.makebookingsonline.com/api/v1/booking/download_itinerary?itinerary_id=7279&with_image=1&type=pdf`
 ### Payload:
 
 ```json
