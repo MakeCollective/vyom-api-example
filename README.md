@@ -46,7 +46,7 @@ Makebookingsonline API Doc for Packages
 
 #### Search Package
 
-### ApiName: `packages/v2/search`
+### ApiName: packages/v2/search
 ### Endpoint
 `https://apiuat.makebookingsonline.com/api/v1/packages/v2/search`
 ### Payload:
