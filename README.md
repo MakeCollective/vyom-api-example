@@ -381,7 +381,7 @@ Response:
             }
         }
     }
-}`
+`
 
 
 ApiName: packages/checkAvailability
