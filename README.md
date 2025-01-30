@@ -151,9 +151,10 @@ Step 2. Get Package details
 
 
 Note:( To use service_priority (PRIMARY & ALTERNATE) parameters in package detail api).
-1 Get the  package_id from the package search response.
-2The service_priority is "PRIMARY" option  the main or default choice for accommodation and rental
-3.if the service_priority is "PRIMARY" option is unavailable then The alternate is the secondary option for accommodation and rental .
+1. Get the  package_id from the package search response.
+2. The service_priority is "PRIMARY" option  the main or default choice for accommodation and rental
+3. if the service_priority is "PRIMARY" option is unavailable then The alternate is the secondary option for accommodation and rental
+
 In activities consider included:1, included:0 is for suggestion only which can be given to customer as a choice to add in package
 
 
@@ -421,324 +422,319 @@ Response:
 
 
 Note:
-1.Getting the package_id from package search api response.
-2.checkAvailability will return the packageDetails + packageDetailsDaywise + the “package_availability_id
+1. Getting the package_id from package search api response.
+2. checkAvailability will return the packageDetails + packageDetailsDaywise + the “package_availability_id
+
 To use the Include and NOT Include parameter in package availability api .
-1.if include "1" it's count into the package .
-2.if include "0" it's not counted into the package ,it's only for option choice.
-Response:
+
+1. if include "1" it's count into the package .
+2. if include "0" it's not counted into the package ,it's only for option choice.
+
+### Response:
 
 ```json
 {
-
-    "status": 200,
-    "data": {
-        "packageDetails": {
-            "title": "Queenstown Coast Package -3 days",
-            "type": "family",
-            "transfers": "self_drive",
-            "start_city_id": 1,
-            "end_city_id": 14,
-            "number_of_city": 3,
-            "number_of_nights": 2,
-            "number_of_days": 3,
-            "bookability": "open",
-            "dictated_start_date": {
-                "$date": {
-                    "$numberLong": "0"
-                }
-            },
-            "dictated_end_date": {
-                "$date": {
-                    "$numberLong": "0"
-                }
-            },
-            "inclusion": [
-                "Take a look of  amazing view of NewZealand ,beautiful mountain and nature "
-            ],
-            "exclusion": [
-                "1-Government Service Tax as applicable on the above rates "
-            ],
-            "highlight": [
-                "Take a look of  amazing view of NewZealand ,beautiful mountain and nature "
-            ],
-            "country_code": "NZ",
-            "id": "67972042045444f07263651a",
-            "images": [
-                {
-                    "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/file_17321284677202.png",
-                    "is_primary": 1,
-                    "title": ""
-                },
-                {
-                    "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/file_17321284775254.png",
-                    "is_primary": null,
-                    "title": ""
-                },
-                {
-                    "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/file_17321284885561.png",
-                    "is_primary": null,
-                    "title": ""
-                },
-                {
-                    "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/file_17321284963525.png",
-                    "is_primary": null,
-                    "title": ""
-                }
-            ],
-            "booking_start_date": "2025-03-09",
-            "booking_end_date": "2025-03-11",
-            "guest_count": [
-                {
-                    "adult": [
-                        2
-                    ],
-                    "child": [
-                        0
-                    ],
-                    "child_age": [
-                        "0"
-                    ]
-                }
-            ],
-            "city_summary": [
-                {
-                    "start_city": 14,
-                    "city_name": "Queenstown",
-                    "number_of_nights": 2,
-                    "service_day": 1,
-                    "service_end_day": 2,
-                    "service_days": [
-                        1,
-                        2,
-                        3
-                    ]
-                }
-            ],
-            "aPrice": {
-                "total_price": 2886.88,
-                "price_per_adult": 1213.53,
-                "price_per_child": 0,
-                "total_adult_price": 2427.05,
-                "total_child_price": 459.83,
-                "agent_total_price": 2745.64,
-                "agent_total_adult_price": 2307.71,
-                "agetn_total_child_price": 437.93,
-                "agent_per_adult_price": 1153.86,
-                "agent_per_child_price": 0
-            }
+  "status": 200,
+  "data": {
+    "packageDetails": {
+      "title": "Queenstown Coast Package -3 days",
+      "type": "family",
+      "transfers": "self_drive",
+      "start_city_id": 1,
+      "end_city_id": 14,
+      "number_of_city": 3,
+      "number_of_nights": 2,
+      "number_of_days": 3,
+      "bookability": "open",
+      "dictated_start_date": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "dictated_end_date": {
+        "$date": {
+          "$numberLong": "0"
+        }
+      },
+      "inclusion": [
+        "Take a look of amazing view of NewZealand, beautiful mountain and nature"
+      ],
+      "exclusion": [
+        "1-Government Service Tax as applicable on the above rates"
+      ],
+      "highlight": [
+        "Take a look of amazing view of NewZealand, beautiful mountain and nature"
+      ],
+      "country_code": "NZ",
+      "id": "67972042045444f07263651a",
+      "images": [
+        {
+          "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/file_17321284677202.png",
+          "is_primary": 1,
+          "title": ""
         },
-        "packageServiceDetailsDayWise": {
-            "1": {
-                "services": [
-                    {
-                        "id": 1,
-                        "parent_id": 0,
-                        "package_id": "67972042045444f07263651a",
-                        "category_id": 1,
-                        "service_category": "Rental Car",
-                        "supplier_id": 7,
-                        "supplier_name": "",
-                        "supplier_service_name": "Car, B2 SUZUKI SWIFT OR SIMILAR(EDAR)",
-                        "service_day": 1,
-                        "service_start_day": 1,
-                        "number_of_days": 1,
-                        "start_city": 1,
-                        "start_city_name": "Auckland",
-                        "pickup_location_id": "4858",
-                        "dropoff_city": 1,
-                        "drop_city_name": "",
-                        "dropoff_location_id": "4858",
-                        "pickup_location": "AUCKLAND AIRPORT",
-                        "dropoff_location": "AUCKLAND AIRPORT",
-                        "pickup_address": "",
-                        "dropoff_address": "",
-                        "start_latitude": "",
-                        "service_latitude": "-37.005603",
-                        "service_longitude": "174.791014",
-                        "start_date": "2025-03-09",
-                        "end_date": "2025-03-10",
-                        "start_time": "11:30:00",
-                        "end_time": "07:40:00",
-                        "service_time": "11:30:00",
-                        "display_type": "",
-                        "display_value": "",
-                        "display_label": "",
-                        "product_reference_id": "EDAR",
-                        "session_id": "QDALRJ6D0R70175-6601",
-                        "vehicle_itcode": "ITNZ2693",
-                        "specification": "{\"fuel\":\"Unspecified\",\"transmission\":\"Automatic\",\"doors\":\"4\",\"distance_limit\":\"Unlimited\",\"passanger\":\"4\",\"baggage\":\"1\"}",
-                        "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/images/rental-cars/HERTZ/ZENZEDAR999.jpg",
-                        "price": 113.19,
-                        "one_way_or_drop_price": "",
-                        "vendor_name": "HERTZ",
-                        "none_refundable": "",
-                        "service_not_available": false,
-                        "day_highlight": "",
-                        "country_code": "",
-                        "currency": "",
-                        "is_dropoff_date": 0,
-                        "category_key": "rental_car",
-                        "aDisplay": [
-                            {
-                                "display_type": "time",
-                                "display_label": "Pick-Up Time",
-                                "display_value": "11:30:00"
-                            },
-                            {
-                                "display_type": "string",
-                                "display_label": "Pick-Up Location",
-                                "display_value": "AUCKLAND AIRPORT"
-                            }
-                        ],
-                        "agent_price": 107.8
-                    },
-                    {
-                        "id": 9,
-                        "parent_id": 0,
-                        "SessionId": "",
-                        "search_index": "6797466c7c9efbaafac9fe95",
-                        "package_id": "67972042045444f07263651a",
-                        "HotelCode": "",
-                        "category_id": 2,
-                        "service_category": "Accommodation",
-                        "supplier_id": 176,
-                        "supplier_name": "",
-                        "supplier_service_name": "Heritage Queenstown",
-                        "room_name": [
-                            "Family Deluxe Room Non-Lakeview"
-                        ],
-                        "aInclusion": [
-                            "Room Only"
-                        ],
-                        "service_day": 1,
-                        "service_start_day": 1,
-                        "number_of_nights": 2,
-                        "day_highlight": "",
-                        "start_city": 14,
-                        "start_city_name": "Queenstown",
-                        "service_latitude": "-45.037844",
-                        "service_longitude": "168.642835",
-                        "start_date": "2025-03-09",
-                        "end_date": "2025-03-11",
-                        "start_time": "14:00",
-                        "end_time": "10:00",
-                        "service_time": "14:00",
-                        "display_type": "",
-                        "display_value": "",
-                        "display_label": "",
-                        "none_refundable": 0,
-                        "price": 1255.254,
-                        "service_description": "Property Location With a stay at Heritage Queenstown, you''ll be centrally located in Queenstown, within a 10-minute drive of Lake Wakatipu and CaddyShack City Mini Golf.  This 4.5-star ",
-                        "service_image": "https://api.tbotechnology.in/imageresource.aspx?img=9eMP+0FIICgCIk6ZClzZH9Cs+1gwAq6BFWcc22yNLMF/UJIXMdxPdRpAyYgh22RZU80KsHGejZQWaJDdqHfdO7afCz6iqXiN9ge4CiGQhiRdDvSeJgYQan7iDathr0XDAyEfbleqjh+aMp9fXVIXjQk3zvlIppm/",
-                        "vendor_name": "EXPEDIA",
-                        "service_not_available": false,
-                        "accommodation_availability_id": "ZcBheVAbJvwxIOXwPy3iFjfMpeJ9Blpu",
-                        "room_available_id": "iWzJPLAdk6LxI1wV",
-                        "country_code": "",
-                        "currency": "",
-                        "is_checkout_date": 0,
-                        "category_key": "accommodation",
-                        "aDisplay": [
-                            {
-                                "display_type": "time",
-                                "display_label": "Check-In Time",
-                                "display_value": "14:00"
-                            }
-                        ],
-                        "agent_price": 1195.48
-                    }
-                ],
-                "booking_date": "2025-03-09",
-                "booking_end_date": "2025-03-11",
-                "display_city": "Arrival in Queenstown",
-                "start_city": 14
+        {
+          "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/file_17321284775254.png",
+          "is_primary": null,
+          "title": ""
+        },
+        {
+          "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/file_17321284885561.png",
+          "is_primary": null,
+          "title": ""
+        },
+        {
+          "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/file_17321284963525.png",
+          "is_primary": null,
+          "title": ""
+        }
+      ],
+      "booking_start_date": "2025-03-09",
+      "booking_end_date": "2025-03-11",
+      "guest_count": [
+        {
+          "adult": [2],
+          "child": [0],
+          "child_age": ["0"]
+        }
+      ],
+      "city_summary": [
+        {
+          "start_city": 14,
+          "city_name": "Queenstown",
+          "number_of_nights": 2,
+          "service_day": 1,
+          "service_end_day": 2,
+          "service_days": [1, 2, 3]
+        }
+      ],
+      "aPrice": {
+        "total_price": 2886.88,
+        "price_per_adult": 1213.53,
+        "price_per_child": 0,
+        "total_adult_price": 2427.05,
+        "total_child_price": 459.83,
+        "agent_total_price": 2745.64,
+        "agent_total_adult_price": 2307.71,
+        "agent_total_child_price": 437.93,
+        "agent_per_adult_price": 1153.86,
+        "agent_per_child_price": 0
+      }
+    },
+    "packageServiceDetailsDayWise": {
+      "1": {
+        "services": [
+          {
+            "id": 1,
+            "parent_id": 0,
+            "package_id": "67972042045444f07263651a",
+            "category_id": 1,
+            "service_category": "Rental Car",
+            "supplier_id": 7,
+            "supplier_name": "",
+            "supplier_service_name": "Car, B2 SUZUKI SWIFT OR SIMILAR(EDAR)",
+            "service_day": 1,
+            "service_start_day": 1,
+            "number_of_days": 1,
+            "start_city": 1,
+            "start_city_name": "Auckland",
+            "pickup_location_id": "4858",
+            "dropoff_city": 1,
+            "drop_city_name": "",
+            "dropoff_location_id": "4858",
+            "pickup_location": "AUCKLAND AIRPORT",
+            "dropoff_location": "AUCKLAND AIRPORT",
+            "pickup_address": "",
+            "dropoff_address": "",
+            "start_latitude": "",
+            "service_latitude": "-37.005603",
+            "service_longitude": "174.791014",
+            "start_date": "2025-03-09",
+            "end_date": "2025-03-10",
+            "start_time": "11:30:00",
+            "end_time": "07:40:00",
+            "service_time": "11:30:00",
+            "display_type": "",
+            "display_value": "",
+            "display_label": "",
+            "product_reference_id": "EDAR",
+            "session_id": "QDALRJ6D0R70175-6601",
+            "vehicle_itcode": "ITNZ2693",
+            "specification": "{\"fuel\":\"Unspecified\",\"transmission\":\"Automatic\",\"doors\":\"4\",\"distance_limit\":\"Unlimited\",\"passenger\":\"4\",\"baggage\":\"1\"}",
+            "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/images/rental-cars/HERTZ/ZENZEDAR999.jpg",
+            "price": 113.19,
+            "one_way_or_drop_price": "",
+            "vendor_name": "HERTZ",
+            "none_refundable": "",
+            "service_not_available": false,
+            "day_highlight": "",
+            "country_code": "",
+            "currency": "",
+            "is_dropoff_date": 0,
+            "category_key": "rental_car",
+            "aDisplay": [
+              {
+                "display_type": "time",
+                "display_label": "Pick-Up Time",
+                "display_value": "11:30:00"
+              },
+              {
+                "display_type": "string",
+                "display_label": "Pick-Up Location",
+                "display_value": "AUCKLAND AIRPORT"
+              }
+            ],
+            "agent_price": 107.8
+          },
+          {
+            "id": 9,
+            "parent_id": 0,
+            "SessionId": "",
+            "search_index": "6797466c7c9efbaafac9fe95",
+            "package_id": "67972042045444f07263651a",
+            "HotelCode": "",
+            "category_id": 2,
+            "service_category": "Accommodation",
+            "supplier_id": 176,
+            "supplier_name": "",
+            "supplier_service_name": "Heritage Queenstown",
+            "room_name": [
+              "Family Deluxe Room Non-Lakeview"
+            ],
+            "aInclusion": [
+              "Room Only"
+            ],
+            "service_day": 1,
+            "service_start_day": 1,
+            "number_of_nights": 2,
+            "day_highlight": "",
+            "start_city": 14,
+            "start_city_name": "Queenstown",
+            "service_latitude": "-45.037844",
+            "service_longitude": "168.642835",
+            "start_date": "2025-03-09",
+            "end_date": "2025-03-11",
+            "start_time": "14:00",
+            "end_time": "10:00",
+            "service_time": "14:00",
+            "display_type": "",
+            "display_value": "",
+            "display_label": "",
+            "none_refundable": 0,
+            "price": 1255.254,
+            "service_description": "Property Location With a stay at Heritage Queenstown, you'll be centrally located in Queenstown, within a 10-minute drive of Lake Wakatipu and CaddyShack City Mini Golf. This 4.5-star",
+            "service_image": "https://api.tbotechnology.in/imageresource.aspx?img=9eMP+0FIICgCIk6ZClzZH9Cs+1gwAq6BFWcc22yNLMF/UJIXMdxPdRpAyYgh22RZU80KsHGejZQWaJDdqHfdO7afCz6iqXiN9ge4CiGQhiRdDvSeJgYQan7iDathr0XDAyEfbleqjh+aMp9fXVIXjQk3zvlIppm/",
+            "vendor_name": "EXPEDIA",
+            "service_not_available": false,
+            "accommodation_availability_id": "ZcBheVAbJvwxIOXwPy3iFjfMpeJ9Blpu",
+            "room_available_id": "iWzJPLAdk6LxI1wV",
+            "country_code": "",
+            "currency": "",
+            "is_checkout_date": 0,
+            "category_key": "accommodation",
+            "aDisplay": [
+              {
+                "display_type": "time",
+                "display_label": "Check-In Time",
+                "display_value": "14:00"
+              }
+            ],
+            "agent_price": 1195.48
+          }
+        ],
+        "booking_date": "2025-03-09",
+        "booking_end_date": "2025-03-11",
+        "display_city": "Arrival in Queenstown",
+        "start_city": 14
+      },
+      "2": {
+        "services": [
+          {
+            "id": 5,
+            "parent_id": 0,
+            "package_id": "67972042045444f07263651a",
+            "supplier_id": 118,
+            "supplier_service_id": 17225,
+            "product_reference_id": "17225",
+            "supplier_name": "",
+            "supplier_service_name": "Wellington, Interisland, Coastal Pacific Christchurch",
+            "category_id": 26,
+            "service_category": "Ferry",
+            "service_day": 2,
+            "start_city": 24,
+            "start_city_name": "Wellington",
+            "service_latitude": "",
+            "service_longitude": "",
+            "dropoff_city": 23,
+            "drop_city_name": "",
+            "drop_latitude": "",
+            "drop_longitude": "",
+            "start_date": "2025-03-10",
+            "start_time": "08:00:00",
+            "end_time": "11:30:00",
+            "service_time": "08:00:00",
+            "service_description": "The journey across the Cook Strait takes 3 to 3.5 hours then connects with Coastal Pacific train (only on operational days) to Christchurch 7.30pm\r\n\r\nDEPARTS: 9:00 AM\r\nARRIVES : 7:30 PM",
+            "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/17225_doc_1665789027-0.jpg",
+            "vendor_name": "VYOM",
+            "price": 347.655,
+            "adult_total_price": "209.06",
+            "child_total_price": "138.60",
+            "infant_price": 0,
+            "none_refundable": "",
+            "aProductOptions": [
+              {
+                "product_id": "Adult",
+                "parent_product_id": "17225",
+                "fareLabelAdult": "Adult",
+                "label": "Adult",
+                "paxAges": [],
+                "total_unit": 1
+              },
+              {
+                "product_id": "Child",
+                "parent_product_id": "17225",
+                "fareLabelAdult": "Child",
+                "label": "Child",
+                "paxAges": [],
+                "total_unit": 1
+              }
+            ],
+            "productPax": {
+              "Adult": 1,
+              "Child": 1
             },
-            "2": {
-                "services": [
-                    {
-                        "id": 5,
-                        "parent_id": 0,
-                        "package_id": "67972042045444f07263651a",
-                        "supplier_id": 118,
-                        "supplier_service_id": 17225,
-                        "product_reference_id": "17225",
-                        "supplier_name": "",
-                        "supplier_service_name": "Wellington, Interisland, Coastal Pacific Christchurch",
-                        "category_id": 26,
-                        "service_category": "Ferry",
-                        "service_day": 2,
-                        "start_city": 24,
-                        "start_city_name": "Wellington",
-                        "service_latitude": "",
-                        "service_longitude": "",
-                        "dropoff_city": 23,
-                        "drop_city_name": "",
-                        "drop_latitude": "",
-                        "drop_longitude": "",
-                        "start_date": "2025-03-10",
-                        "start_time": "08:00:00",
-                        "end_time": "11:30:00",
-                        "service_time": "08:00:00",
-                        "service_description": "The journey across the Cook Strait takes 3 to 3.5 hours then connects with Coastal Pacific train (only on operational days) to Christchurch 7.30pm\r\n\r\nDEPARTS: 9:00 AM\r\nARRIVES : 7:30 PM",
-                        "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/17225_doc_1665789027-0.jpg",
-                        "vendor_name": "VYOM",
-                        "price": 347.655,
-                        "adult_total_price": "209.06",
-                        "child_total_price": "138.60",
-                        "infant_price": 0,
-                        "none_refundable": "",
-                        "aProductOptions": [
-                            {
-                                "product_id": "Adult",
-                                "parent_product_id": "17225",
-                                "fareLabelAdult": "Adult",
-                                "label": "Adult",
-                                "paxAges": [],
-                                "total_unit": 1
-                            },
-                            {
-                                "product_id": "Child",
-                                "parent_product_id": "17225",
-                                "fareLabelAdult": "Child",
-                                "label": "Child",
-                                "paxAges": [],
-                                "total_unit": 1
-                            }
-                        ],
-                        "productPax": {
-                            "Adult": 1,
-                            "Child": 1
-                        },
-                        "total_adult": 1,
-                        "total_child": 1,
-                        "service_not_available": false,
-                        "day_highlight": "",
-                        "country_code": "",
-                        "currency": "",
-                        "included": 1,
-                        "category_key": "ferry",
-                        "aDisplay": [
-                            {
-                                "display_type": "time",
-                                "display_label": "Start Time",
-                                "display_value": "08:00:00"
-                            },
-                            {
-                                "display_type": "time",
-                                "display_label": "End Time",
-                                "display_value": "11:30:00"
-                            },
-                            {
-                                "display_type": "string",
-                                "display_label": "Start City",
-                                "display_value": "Wellington"
-                            }
-                        ],
-                        "agent_price": 331.1
-                    },
-                   
-               "package_availability_id": "67974e5f7c9efbaafaca00c3"
+            "total_adult": 1,
+            "total_child": 1,
+            "service_not_available": false,
+            "day_highlight": "",
+            "country_code": "",
+            "currency": "",
+            "included": 1,
+            "category_key": "ferry",
+            "aDisplay": [
+              {
+                "display_type": "time",
+                "display_label": "Start Time",
+                "display_value": "08:00:00"
+              },
+              {
+                "display_type": "time",
+                "display_label": "End Time",
+                "display_value": "11:30:00"
+              },
+              {
+                "display_type": "string",
+                "display_label": "Start City",
+                "display_value": "Wellington"
+              }
+            ],
+            "agent_price": 331.1
+          }
+        ],
+        "package_availability_id": "67974e5f7c9efbaafaca00c3"
+      }
+    }
+  }
 }
 
 ```
