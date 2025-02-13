@@ -1,0 +1,924 @@
+{
+  "status": 200,
+  "data": {
+    "packageDetails": {
+      "country_code": "NZ",
+      "title": "West Coast test package by minaj",
+      "type": "adventure",
+      "transfers": "no_transport",
+      "start_city_id": 29,
+      "end_city_id": 30,
+      "number_of_city": 3,
+      "number_of_nights": 4,
+      "number_of_days": 5,
+      "bookability": "open",
+      "inclusion": [
+        "Hike",
+        "Scenic tour"
+      ],
+      "exclusion": [
+        "flight"
+      ],
+      "highlight": [
+        "Experience the scenic journey"
+      ],
+      "description": "This tour blends adventure, nature, and culture, offering an unforgettable experience on New Zealand’s West Coast. ",
+      "package_id": "67ac7a5e3e5b93a8877e9129",
+      "id": "67ac7a5e3e5b93a8877e9129",
+      "images": [
+        {
+          "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/package_image_67ac7a5e3e5b93a8877e9129_1739359836076.jpeg",
+          "is_primary": 0,
+          "title": ""
+        },
+        {
+          "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/package_image_67ac7a5e3e5b93a8877e9129_1739359793113.jpeg",
+          "is_primary": 0,
+          "title": ""
+        },
+        {
+          "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/package_image_67ac7a5e3e5b93a8877e9129_1739359535824.jpeg",
+          "is_primary": 0,
+          "title": ""
+        },
+        {
+          "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/package_image_67ac7a5e3e5b93a8877e9129_1739359196886.jpeg",
+          "is_primary": 0,
+          "title": ""
+        },
+        {
+          "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/package_image_67ac7a5e3e5b93a8877e9129_1739359098494.jpeg",
+          "is_primary": 0,
+          "title": ""
+        },
+        {
+          "image_system_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/mbo/assets/data/packages/package_image_67ac7a5e3e5b93a8877e9129_1739358854395.jpeg",
+          "is_primary": 0,
+          "title": ""
+        }
+      ],
+      "booking_start_date": "2025-03-09",
+      "booking_end_date": "2025-03-11",
+      "guest_count": [
+        {
+          "adult": [
+            2
+          ],
+          "child": [
+            0
+          ],
+          "child_age": [
+            "0"
+          ]
+        }
+      ],
+      "city_summary": [
+        {
+          "start_city": 29,
+          "city_name": "Greymouth",
+          "number_of_nights": 1,
+          "service_day": 1,
+          "service_end_day": 2,
+          "service_days": [
+            1,
+            2
+          ]
+        },
+        {
+          "start_city": 61,
+          "city_name": "Hokitika",
+          "number_of_nights": 1,
+          "service_day": 2,
+          "service_end_day": 3,
+          "service_days": [
+            2,
+            3
+          ]
+        },
+        {
+          "start_city": 30,
+          "city_name": "Franz Josef Glacier",
+          "number_of_nights": 2,
+          "service_day": 3,
+          "service_end_day": 4,
+          "service_days": [
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "aPrice": {
+        "total_price": 2953,
+        "price_per_adult": 1111,
+        "price_per_child": 0,
+        "total_adult_price": 2222,
+        "total_child_price": 731,
+        "agent_total_price": 2890,
+        "agent_total_adult_price": 2167,
+        "agetn_total_child_price": 724,
+        "agent_per_adult_price": 1084,
+        "agent_per_child_price": 0
+      }
+    },
+    "packageServiceDetailsDayWise": {
+      "1": {
+        "services": [
+          {
+            "id": 1,
+            "parent_id": 0,
+            "SessionId": "",
+            "search_index": "67ad67c710d3d7d0fabf27a7",
+            "package_id": "67ac7a5e3e5b93a8877e9129",
+            "HotelCode": "",
+            "category_id": 2,
+            "service_category": "Accommodation",
+            "supplier_id": 1585,
+            "supplier_name": "The Ashley Hotel Greymouth",
+            "supplier_service_name": "The Ashley Hotel Greymouth",
+            "room_name": [
+              "Hotel King"
+            ],
+            "aInclusion": [
+              "Room Only"
+            ],
+            "service_day": 1,
+            "service_start_day": 1,
+            "number_of_nights": 1,
+            "day_highlight": "",
+            "start_city": 29,
+            "start_city_name": "Greymouth",
+            "service_latitude": "-42.4706",
+            "service_longitude": "171.18872",
+            "start_date": "2025-03-09",
+            "end_date": "2025-03-10",
+            "start_time": "14:00",
+            "end_time": "10:00",
+            "service_time": "14:00",
+            "display_type": "",
+            "display_value": "",
+            "display_label": "",
+            "none_refundable": 1,
+            "price": 206.71478100000002,
+            "total_tax": 30.05,
+            "service_description": "",
+            "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/12316_doc_1597750455-0.jpg",
+            "vendor_name": "EXPEDIA",
+            "service_not_available": false,
+            "accommodation_availability_id": "bZvOfZNRV7BX4ztu7pYouxcTuUc6yxQz",
+            "room_available_id": "1qTJHmuoDrm9Kigb",
+            "country_code": "",
+            "currency": "",
+            "is_checkout_date": 0,
+            "category_key": "accommodation",
+            "aDisplay": [
+              {
+                "display_type": "time",
+                "display_label": "Check-In Time",
+                "display_value": "14:00"
+              }
+            ],
+            "agent_price": 204.67
+          }
+        ],
+        "display_city": "Arrival in Greymouth",
+        "start_city": 29,
+        "booking_date": "2025-03-09",
+        "booking_end_date": "2025-03-10"
+      },
+      "2": {
+        "services": [
+          {
+            "id": 1,
+            "parent_id": 1,
+            "SessionId": "",
+            "search_index": "67ad67c710d3d7d0fabf27a7",
+            "package_id": "67ac7a5e3e5b93a8877e9129",
+            "HotelCode": "",
+            "category_id": 2,
+            "service_category": "Accommodation",
+            "supplier_id": 1585,
+            "supplier_name": "The Ashley Hotel Greymouth",
+            "supplier_service_name": "The Ashley Hotel Greymouth",
+            "room_name": [
+              "Hotel King"
+            ],
+            "aInclusion": [
+              "Room Only"
+            ],
+            "service_day": 2,
+            "service_start_day": 1,
+            "number_of_nights": 1,
+            "day_highlight": "",
+            "start_city": 29,
+            "start_city_name": "Greymouth",
+            "service_latitude": "-42.4706",
+            "service_longitude": "171.18872",
+            "start_date": "2025-03-09",
+            "end_date": "2025-03-10",
+            "start_time": "14:00",
+            "end_time": "10:00",
+            "service_time": "10:00",
+            "display_type": "",
+            "display_value": "",
+            "display_label": "",
+            "none_refundable": 1,
+            "price": 206.71478100000002,
+            "total_tax": 30.05,
+            "service_description": "",
+            "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/12316_doc_1597750455-0.jpg",
+            "vendor_name": "EXPEDIA",
+            "service_not_available": false,
+            "accommodation_availability_id": "bZvOfZNRV7BX4ztu7pYouxcTuUc6yxQz",
+            "room_available_id": "1qTJHmuoDrm9Kigb",
+            "country_code": "",
+            "currency": "",
+            "is_checkout_date": 1,
+            "category_key": "accommodation",
+            "aDisplay": [
+              {
+                "display_type": "time",
+                "display_label": "Check-Out Time",
+                "display_value": "10:00"
+              }
+            ],
+            "agent_price": 204.67
+          },
+          {
+            "id": 2,
+            "parent_id": 0,
+            "package_id": "67ac7a5e3e5b93a8877e9129",
+            "supplier_id": 1464,
+            "supplier_service_id": "",
+            "product_reference_id": 5753,
+            "supplier_name": "Intercity Greymouth (Seat In Coach transfer from one city to another)",
+            "supplier_service_name": "Greymouth to Hokitika (WEST COAST TOUR)",
+            "category_id": 22,
+            "service_category": "Activity",
+            "service_day": 2,
+            "start_city": 29,
+            "start_city_name": "Greymouth",
+            "service_latitude": "",
+            "service_longitude": "",
+            "start_date": "2025-03-10",
+            "start_time": "13:30:00",
+            "end_time": "",
+            "service_time": "13:30:00",
+            "day_highlight": "",
+            "service_description": "",
+            "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/5753_doc_1558528041.jpg",
+            "vendor_name": "VYOM_ACTIVITY",
+            "price": 62.3574,
+            "adult_total_price": "31.18",
+            "child_total_price": "31.18",
+            "infant_price": 0,
+            "service_not_available": false,
+            "none_refundable": "",
+            "aProductOptions": [
+              {
+                "product_id": "Adult",
+                "parent_product_id": 5753,
+                "fareLabelAdult": "Adult",
+                "label": "Adult",
+                "paxAges": [],
+                "total_unit": 1
+              },
+              {
+                "product_id": "Child",
+                "parent_product_id": 5753,
+                "fareLabelAdult": "Child",
+                "label": "Child",
+                "paxAges": [],
+                "total_unit": 1
+              },
+              {
+                "product_id": "Infant",
+                "parent_product_id": 5753,
+                "fareLabelAdult": "Infant",
+                "label": "Infant",
+                "paxAges": [],
+                "total_unit": 0
+              }
+            ],
+            "productPax": {
+              "Adult": 1,
+              "Child": 1,
+              "Infant": 0
+            },
+            "flow_id": 0,
+            "steps_id": 0,
+            "availability_id": 0,
+            "has_time_slot": "0",
+            "has_booking_time": "1",
+            "total_adult": 1,
+            "total_child": 1,
+            "aAvailabilities": "",
+            "aCustomFields": "",
+            "available_start_date": "",
+            "aBookingOptionsAddons": "",
+            "aExtras": "",
+            "aQuestion": "",
+            "departure_key": "",
+            "country_code": "",
+            "currency": "",
+            "included": 1,
+            "category_key": "activity",
+            "aDisplay": [
+              {
+                "display_type": "time",
+                "display_label": "Start Time",
+                "display_value": "13:30:00"
+              }
+            ],
+            "agent_price": 61.74
+          },
+          {
+            "id": 3,
+            "parent_id": 0,
+            "SessionId": "",
+            "search_index": "67ad67c710d3d7d0fabf279d",
+            "package_id": "67ac7a5e3e5b93a8877e9129",
+            "HotelCode": "",
+            "category_id": 2,
+            "service_category": "Accommodation",
+            "supplier_id": 1066,
+            "supplier_name": "Bella Vista Motel Hokitika",
+            "supplier_service_name": "Bella Vista Motel Hokitika",
+            "room_name": [
+              "Twin/Triple Studio"
+            ],
+            "aInclusion": [
+              "Room Only"
+            ],
+            "service_day": 2,
+            "service_start_day": 2,
+            "number_of_nights": 1,
+            "day_highlight": "",
+            "start_city": 61,
+            "start_city_name": "Hokitika",
+            "service_latitude": "-42.717479",
+            "service_longitude": "170.966401",
+            "start_date": "2025-03-10",
+            "end_date": "2025-03-11",
+            "start_time": "14:00",
+            "end_time": "10:00",
+            "service_time": "14:00",
+            "display_type": "",
+            "display_value": "",
+            "display_label": "",
+            "none_refundable": 0,
+            "price": 225.23270175000002,
+            "total_tax": 30.84,
+            "service_description": "",
+            "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/1914_doc_1556345697.jpg",
+            "vendor_name": "EXPEDIA",
+            "service_not_available": false,
+            "accommodation_availability_id": "2pSOrKXq3RhO4XiialtCTQzUU0obRvCF",
+            "room_available_id": "3eZpeOygyZc7HgXy",
+            "country_code": "",
+            "currency": "",
+            "is_checkout_date": 0,
+            "category_key": "accommodation",
+            "aDisplay": [
+              {
+                "display_type": "time",
+                "display_label": "Check-In Time",
+                "display_value": "14:00"
+              }
+            ],
+            "agent_price": 223
+          }
+        ],
+        "display_city": "Arrival in Hokitika",
+        "start_city": 61,
+        "booking_date": "2025-03-10",
+        "booking_end_date": "2025-03-11"
+      },
+      "3": {
+        "services": [
+          {
+            "id": 4,
+            "parent_id": 0,
+            "package_id": "67ac7a5e3e5b93a8877e9129",
+            "supplier_id": 1283,
+            "supplier_service_id": "",
+            "product_reference_id": 2211,
+            "supplier_name": "Glacier Country Lake Tours",
+            "supplier_service_name": "Scenic Cruise (2Hrs)",
+            "category_id": 22,
+            "service_category": "Activity",
+            "service_day": 3,
+            "start_city": 30,
+            "start_city_name": "Franz Josef Glacier",
+            "service_latitude": "-43.38451767",
+            "service_longitude": "170.1848145",
+            "start_date": "2025-03-11",
+            "start_time": "09:00:00",
+            "end_time": "11:00:00",
+            "service_time": "09:00:00",
+            "day_highlight": "",
+            "service_description": "Discover the true beauty of the West Coast in a small personalized tour on Lake Mapourika.  The Jurassic rainforest fringed bays which reflect the surroundings will leave you in awe of its beauty.  The lake also boasts unbeatable panoramic views of Franz Josefâ€™s Glaciers and the Southern Alps.\r\nYour skipper will provide informative commentary and fascinating stories along the way! He will even brew a cup of tea throughout the journey.\r\n\r\n \r\n\r\nLake Mapourika boasts calm reflective waters and some of the last remaining untouched Kahikatea rainforest. The back of the lake is home to the rarest kiwi on the planet, the Rowi.  Native birds can be viewed easily from the front viewing platform, and shelter from the weather can be taken in the cabin area or back deck area.",
+            "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/2211_doc_1547506019.jpg",
+            "vendor_name": "VYOM_ACTIVITY",
+            "price": 129.1689,
+            "adult_total_price": "84.63",
+            "child_total_price": "44.54",
+            "infant_price": 0,
+            "service_not_available": false,
+            "none_refundable": "",
+            "aProductOptions": [
+              {
+                "product_id": "Adult",
+                "parent_product_id": 2211,
+                "fareLabelAdult": "Adult",
+                "label": "Adult",
+                "paxAges": [],
+                "total_unit": 1
+              },
+              {
+                "product_id": "Child",
+                "parent_product_id": 2211,
+                "fareLabelAdult": "Child",
+                "label": "Child",
+                "paxAges": [],
+                "total_unit": 1
+              },
+              {
+                "product_id": "Infant",
+                "parent_product_id": 2211,
+                "fareLabelAdult": "Infant",
+                "label": "Infant",
+                "paxAges": [],
+                "total_unit": 0
+              }
+            ],
+            "productPax": {
+              "Adult": 1,
+              "Child": 1,
+              "Infant": 0
+            },
+            "flow_id": 0,
+            "steps_id": 0,
+            "availability_id": 0,
+            "has_time_slot": "1",
+            "has_booking_time": "",
+            "total_adult": 1,
+            "total_child": 1,
+            "aAvailabilities": "",
+            "aCustomFields": "",
+            "available_start_date": "",
+            "aBookingOptionsAddons": "",
+            "aExtras": "",
+            "aQuestion": "",
+            "departure_key": "",
+            "country_code": "",
+            "currency": "",
+            "included": 1,
+            "category_key": "activity",
+            "aDisplay": [
+              {
+                "display_type": "time",
+                "display_label": "Start Time",
+                "display_value": "09:00:00"
+              },
+              {
+                "display_type": "time",
+                "display_label": "End Time",
+                "display_value": "11:00:00"
+              }
+            ],
+            "agent_price": 127.89
+          },
+          {
+            "id": 3,
+            "parent_id": 3,
+            "SessionId": "",
+            "search_index": "67ad67c710d3d7d0fabf279d",
+            "package_id": "67ac7a5e3e5b93a8877e9129",
+            "HotelCode": "",
+            "category_id": 2,
+            "service_category": "Accommodation",
+            "supplier_id": 1066,
+            "supplier_name": "Bella Vista Motel Hokitika",
+            "supplier_service_name": "Bella Vista Motel Hokitika",
+            "room_name": [
+              "Twin/Triple Studio"
+            ],
+            "aInclusion": [
+              "Room Only"
+            ],
+            "service_day": 3,
+            "service_start_day": 2,
+            "number_of_nights": 1,
+            "day_highlight": "",
+            "start_city": 61,
+            "start_city_name": "Hokitika",
+            "service_latitude": "-42.717479",
+            "service_longitude": "170.966401",
+            "start_date": "2025-03-10",
+            "end_date": "2025-03-11",
+            "start_time": "14:00",
+            "end_time": "10:00",
+            "service_time": "10:00",
+            "display_type": "",
+            "display_value": "",
+            "display_label": "",
+            "none_refundable": 0,
+            "price": 225.23270175000002,
+            "total_tax": 30.84,
+            "service_description": "",
+            "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/1914_doc_1556345697.jpg",
+            "vendor_name": "EXPEDIA",
+            "service_not_available": false,
+            "accommodation_availability_id": "2pSOrKXq3RhO4XiialtCTQzUU0obRvCF",
+            "room_available_id": "3eZpeOygyZc7HgXy",
+            "country_code": "",
+            "currency": "",
+            "is_checkout_date": 1,
+            "category_key": "accommodation",
+            "aDisplay": [
+              {
+                "display_type": "time",
+                "display_label": "Check-Out Time",
+                "display_value": "10:00"
+              }
+            ],
+            "agent_price": 223
+          },
+          {
+            "id": 6,
+            "parent_id": 0,
+            "SessionId": "",
+            "search_index": "",
+            "package_id": "67ac7a5e3e5b93a8877e9129",
+            "HotelCode": "",
+            "category_id": 2,
+            "service_category": "Accommodation",
+            "supplier_id": 35,
+            "supplier_name": "Scenic Hotel Franz Josef",
+            "supplier_service_name": "Scenic Hotel Franz Josef",
+            "room_name": "",
+            "aInclusion": "",
+            "service_day": 3,
+            "service_start_day": 3,
+            "number_of_nights": 2,
+            "day_highlight": "",
+            "start_city": 30,
+            "start_city_name": "Franz Josef Glacier",
+            "service_latitude": "-43.386078",
+            "service_longitude": "170.181714",
+            "start_date": "2025-03-11",
+            "end_date": "2025-03-13",
+            "start_time": "14:00",
+            "end_time": "10:00",
+            "service_time": "14:00",
+            "display_type": "",
+            "display_value": "",
+            "display_label": "",
+            "none_refundable": "",
+            "price": 885.71,
+            "total_tax": 0,
+            "service_description": "",
+            "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/14558_doc_1654950051-0.jpg",
+            "vendor_name": "",
+            "service_not_available": true,
+            "accommodation_availability_id": "",
+            "room_available_id": "",
+            "country_code": "",
+            "currency": "",
+            "is_checkout_date": 0,
+            "category_key": "accommodation",
+            "aDisplay": [
+              {
+                "display_type": "time",
+                "display_label": "Check-In Time",
+                "display_value": "14:00"
+              }
+            ],
+            "agent_price": 843.5333333333333
+          },
+          {
+            "id": 5,
+            "parent_id": 0,
+            "package_id": "67ac7a5e3e5b93a8877e9129",
+            "supplier_id": 92,
+            "supplier_service_id": "",
+            "product_reference_id": 570,
+            "supplier_name": "Franz Josef Glacier Heliservices",
+            "supplier_service_name": "FLIGHT 1 -  Twenty minutes, with Snow Landing and  one Glacier (Weather Permitting) - Minimum numbers required to operate",
+            "category_id": 22,
+            "service_category": "Activity",
+            "service_day": 3,
+            "start_city": 30,
+            "start_city_name": "Franz Josef Glacier",
+            "service_latitude": "-43.38774109",
+            "service_longitude": "170.1815796",
+            "start_date": "2025-03-11",
+            "start_time": "16:40:00",
+            "end_time": "",
+            "service_time": "16:40:00",
+            "day_highlight": "",
+            "service_description": "Experience exceptional views of New Zealand's Southern Alps. Thereâ€™s nothing like having your feet on the ground at this elevation and really feeling like youâ€™re part of our beautiful landscape. A very popular quick look at our spectacular glacier landscapes.",
+            "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/570_doc_1547505323.jpg",
+            "vendor_name": "VYOM_ACTIVITY",
+            "price": 400.869,
+            "adult_total_price": "267.25",
+            "child_total_price": "133.62",
+            "infant_price": 0,
+            "service_not_available": false,
+            "none_refundable": "",
+            "aProductOptions": [
+              {
+                "product_id": "Adult",
+                "parent_product_id": 570,
+                "fareLabelAdult": "Adult",
+                "label": "Adult",
+                "paxAges": [],
+                "total_unit": 1
+              },
+              {
+                "product_id": "Child",
+                "parent_product_id": 570,
+                "fareLabelAdult": "Child",
+                "label": "Child",
+                "paxAges": [],
+                "total_unit": 1
+              },
+              {
+                "product_id": "Infant",
+                "parent_product_id": 570,
+                "fareLabelAdult": "Infant",
+                "label": "Infant",
+                "paxAges": [],
+                "total_unit": 0
+              }
+            ],
+            "productPax": {
+              "Adult": 1,
+              "Child": 1,
+              "Infant": 0
+            },
+            "flow_id": 0,
+            "steps_id": 0,
+            "availability_id": 0,
+            "has_time_slot": "0",
+            "has_booking_time": "1",
+            "total_adult": 1,
+            "total_child": 1,
+            "aAvailabilities": "",
+            "aCustomFields": "",
+            "available_start_date": "",
+            "aBookingOptionsAddons": "",
+            "aExtras": "",
+            "aQuestion": "",
+            "departure_key": "",
+            "country_code": "",
+            "currency": "",
+            "included": 1,
+            "category_key": "activity",
+            "aDisplay": [
+              {
+                "display_type": "time",
+                "display_label": "Start Time",
+                "display_value": "16:40:00"
+              }
+            ],
+            "agent_price": 396.9
+          }
+        ],
+        "booking_date": "2025-03-11",
+        "booking_end_date": "2025-03-11",
+        "display_city": "Arrival in Franz Josef Glacier",
+        "start_city": 30
+      },
+      "4": {
+        "services": [
+          {
+            "id": 6,
+            "parent_id": 6,
+            "SessionId": "",
+            "search_index": "",
+            "package_id": "67ac7a5e3e5b93a8877e9129",
+            "HotelCode": "",
+            "category_id": 2,
+            "service_category": "Accommodation",
+            "supplier_id": 35,
+            "supplier_name": "Scenic Hotel Franz Josef",
+            "supplier_service_name": "Scenic Hotel Franz Josef",
+            "room_name": "",
+            "aInclusion": "",
+            "service_day": 4,
+            "service_start_day": 3,
+            "number_of_nights": 2,
+            "day_highlight": "",
+            "start_city": 30,
+            "start_city_name": "Franz Josef Glacier",
+            "service_latitude": "-43.386078",
+            "service_longitude": "170.181714",
+            "start_date": "2025-03-11",
+            "end_date": "2025-03-13",
+            "start_time": "14:00",
+            "end_time": "10:00",
+            "service_time": "00:00",
+            "display_type": "",
+            "display_value": "",
+            "display_label": "",
+            "none_refundable": "",
+            "price": 885.71,
+            "total_tax": 0,
+            "service_description": "",
+            "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/14558_doc_1654950051-0.jpg",
+            "vendor_name": "",
+            "service_not_available": true,
+            "accommodation_availability_id": "",
+            "room_available_id": "",
+            "country_code": "",
+            "currency": "",
+            "is_checkout_date": 0,
+            "category_key": "accommodation",
+            "aDisplay": [
+              {
+                "display_type": "string",
+                "display_label": "Stay Continues",
+                "display_value": ""
+              }
+            ],
+            "agent_price": 843.5333333333333
+          },
+          {
+            "id": 7,
+            "parent_id": 0,
+            "package_id": "67ac7a5e3e5b93a8877e9129",
+            "supplier_id": 71,
+            "supplier_service_id": "",
+            "product_reference_id": 474,
+            "supplier_name": "Helicopter Line - Franz Josef & Fox Glacier",
+            "supplier_service_name": "Franz Josef Heli Hike - 3 hours (incl 2 hrs hiking) (Min 4 Pax) (Weather Permitting)",
+            "category_id": 22,
+            "service_category": "Activity",
+            "service_day": 4,
+            "start_city": 30,
+            "start_city_name": "Franz Josef Glacier",
+            "service_latitude": "-43.46478653",
+            "service_longitude": "170.0174255",
+            "start_date": "2025-03-12",
+            "start_time": "08:00:00",
+            "end_time": "",
+            "service_time": "08:00:00",
+            "day_highlight": "",
+            "service_description": "Helicopter up to the stunning Franz Josef glacier.\r\n\r\nExplore glacial terrain on a 2-hour professionally guided hike.\r\n\r\nBe wowed by ice formations and pinnacles.",
+            "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/474_doc_1585934683-0.jpg",
+            "vendor_name": "VYOM_ACTIVITY",
+            "price": 1042.2594000000001,
+            "adult_total_price": "521.13",
+            "child_total_price": "521.13",
+            "infant_price": 0,
+            "service_not_available": false,
+            "none_refundable": "",
+            "aProductOptions": [
+              {
+                "product_id": "Adult",
+                "parent_product_id": 474,
+                "fareLabelAdult": "Adult",
+                "label": "Adult",
+                "paxAges": [],
+                "total_unit": 1
+              },
+              {
+                "product_id": "Child",
+                "parent_product_id": 474,
+                "fareLabelAdult": "Child",
+                "label": "Child",
+                "paxAges": [],
+                "total_unit": 1
+              },
+              {
+                "product_id": "Infant",
+                "parent_product_id": 474,
+                "fareLabelAdult": "Infant",
+                "label": "Infant",
+                "paxAges": [],
+                "total_unit": 0
+              }
+            ],
+            "productPax": {
+              "Adult": 1,
+              "Child": 1,
+              "Infant": 0
+            },
+            "flow_id": 0,
+            "steps_id": 0,
+            "availability_id": 0,
+            "has_time_slot": "0",
+            "has_booking_time": "1",
+            "total_adult": 1,
+            "total_child": 1,
+            "aAvailabilities": "",
+            "aCustomFields": "",
+            "available_start_date": "",
+            "aBookingOptionsAddons": "",
+            "aExtras": "",
+            "aQuestion": "",
+            "departure_key": "",
+            "country_code": "",
+            "currency": "",
+            "included": 1,
+            "category_key": "activity",
+            "aDisplay": [
+              {
+                "display_type": "time",
+                "display_label": "Start Time",
+                "display_value": "08:00:00"
+              }
+            ],
+            "agent_price": 1031.94
+          }
+        ],
+        "display_city": "Stay in Franz Josef Glacier",
+        "start_city": 30,
+        "booking_date": "2025-03-12",
+        "booking_end_date": "2025-03-12"
+      },
+      "5": {
+        "services": [
+          {
+            "id": 6,
+            "parent_id": 6,
+            "SessionId": "",
+            "search_index": "",
+            "package_id": "67ac7a5e3e5b93a8877e9129",
+            "HotelCode": "",
+            "category_id": 2,
+            "service_category": "Accommodation",
+            "supplier_id": 35,
+            "supplier_name": "Scenic Hotel Franz Josef",
+            "supplier_service_name": "Scenic Hotel Franz Josef",
+            "room_name": "",
+            "aInclusion": "",
+            "service_day": 5,
+            "service_start_day": 3,
+            "number_of_nights": 2,
+            "day_highlight": "",
+            "start_city": 30,
+            "start_city_name": "Franz Josef Glacier",
+            "service_latitude": "-43.386078",
+            "service_longitude": "170.181714",
+            "start_date": "2025-03-11",
+            "end_date": "2025-03-13",
+            "start_time": "14:00",
+            "end_time": "10:00",
+            "service_time": "10:00",
+            "display_type": "",
+            "display_value": "",
+            "display_label": "",
+            "none_refundable": "",
+            "price": 885.71,
+            "total_tax": 0,
+            "service_description": "",
+            "service_image": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/14558_doc_1654950051-0.jpg",
+            "vendor_name": "",
+            "service_not_available": true,
+            "accommodation_availability_id": "",
+            "room_available_id": "",
+            "country_code": "",
+            "currency": "",
+            "is_checkout_date": 1,
+            "category_key": "accommodation",
+            "aDisplay": [
+              {
+                "display_type": "time",
+                "display_label": "Check-Out Time",
+                "display_value": "10:00"
+              }
+            ],
+            "agent_price": 843.5333333333333
+          }
+        ],
+        "display_city": "Departure From Franz Josef Glacier",
+        "start_city": 30,
+        "booking_date": "2025-03-13",
+        "booking_end_date": "2025-03-15"
+      }
+    },
+    "guest_count": [
+      {
+        "adult": [
+          2
+        ],
+        "child": [
+          0
+        ],
+        "child_age": [
+          "0"
+        ]
+      }
+    ],
+    "requirement_id": "67ad67c610d3d7d0fabf2798",
+    "package_id": "67ac7a5e3e5b93a8877e9129",
+    "booking_start_date": "2025-03-09",
+    "booking_end_date": "2025-03-11",
+    "agent_id": 521,
+    "user_id": 3420
+  },
+  "package_availability_id": "67ad69a010d3d7d0fabf27c4"
+}

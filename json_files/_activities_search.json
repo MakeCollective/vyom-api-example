@@ -1,0 +1,1702 @@
+{
+  "search_index": "67ad69a110d3d7d0fabf27c7",
+  "total_available_products": 292,
+  "status": 200,
+  "data": [
+    {
+      "supplier_id": 1619,
+      "supplier_name": "KJet Queenstown",
+      "vendor_supplier_id": 1619,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Queenstownâ€™s only underwater experience takes you on a journey through time and legend beginning many millions of years ago.\r\n\r\nHead down two flights of stairs under Lake Wakatipu into our underwater theatre. The famous fish, diving ducks and slinky eels are visible until a large cinema screen descends and you begin your time travel journey. As you wait for the next time jump window to open, youâ€™ll get to see the beautiful love story and MÄori Legend of Lake Wakatipu.\r\n\r\nYour time travel pilot will guide you back 90 million years, through the time of the dinosaurs, take you to when New Zealand was formed, fly you deep into the earth when the Southern Alps were created and through the glacier that carved out Lake Wakatipu. Ending in present day Queenstown, you then experience adventure activities you can do â€“ all from the comfort of your rumbling seat!",
+      "supplier_service_name": "Time Tripper",
+      "start_date": "2025-03-09",
+      "product_id": 21635,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/21635_doc_1685081049-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": "56789",
+      "longitude": "-185663876352",
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 21635,
+          "start_time": "09:45:00",
+          "end_time": "10:15:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "10:15:00",
+          "end_time": "10:45:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "10:45:00",
+          "end_time": "11:15:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "11:15:00",
+          "end_time": "11:45:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "11:45:00",
+          "end_time": "12:15:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "12:15:00",
+          "end_time": "12:45:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "12:45:00",
+          "end_time": "13:15:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "13:15:00",
+          "end_time": "13:45:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "13:45:00",
+          "end_time": "14:15:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "14:15:00",
+          "end_time": "14:45:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "14:45:00",
+          "end_time": "15:15:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "15:15:00",
+          "end_time": "15:45:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "15:45:00",
+          "end_time": "16:15:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "16:15:00",
+          "end_time": "16:45:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "16:45:00",
+          "end_time": "17:15:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "17:15:00",
+          "end_time": "17:45:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "17:45:00",
+          "end_time": "18:15:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "18:15:00",
+          "end_time": "18:45:00"
+        },
+        {
+          "supplier_service_id": 21635,
+          "start_time": "18:45:00",
+          "end_time": "19:15:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 4,
+      "start_time": "09:45:00",
+      "end_time": "18:45:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 11.69,
+        "per_unit_price": 11.69,
+        "per_child_unit_price": 6.24,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 435,
+      "supplier_name": "Gibbston Valley Winery, Restaurant & Winecave",
+      "vendor_supplier_id": 435,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Experience Gibbston Valley. Take a tour of our wine cave and iconic Home Block vineyard or spend the afternoon and lunch with one of our winemakers. We offer a range of cave and winery tours to suit every taste.",
+      "supplier_service_name": "Wine Cave Tour - 30 Min Tour with tasting of 3 Wines",
+      "start_date": "2025-03-09",
+      "product_id": 1259,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/1259_doc_1549928440.jpg",
+      "city_name": "Queenstown",
+      "latitude": "-45.01167679",
+      "longitude": "168.9150543",
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 1259,
+          "start_time": "10:00:00",
+          "end_time": "10:30:00"
+        },
+        {
+          "supplier_service_id": 1259,
+          "start_time": "11:00:00",
+          "end_time": "11:30:00"
+        },
+        {
+          "supplier_service_id": 1259,
+          "start_time": "13:00:00",
+          "end_time": "13:30:00"
+        },
+        {
+          "supplier_service_id": 1259,
+          "start_time": "14:00:00",
+          "end_time": "14:30:00"
+        },
+        {
+          "supplier_service_id": 1259,
+          "start_time": "15:00:00",
+          "end_time": "15:30:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 17,
+      "infant_age": 4,
+      "start_time": "09:30:00",
+      "end_time": "15:30:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 17.82,
+        "per_unit_price": 17.82,
+        "per_child_unit_price": 0,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 59,
+      "supplier_name": "Skyline Queenstown",
+      "vendor_supplier_id": 59,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Take a scenic Gondola ride for quick and easy access to Queenstown's most spectacular views! The Gondola rises 450 vertical metres above Queenstown on an average incline of 37.10 to the Skyline complex on Bob's Peak",
+      "supplier_service_name": "Gondola Ride (down only)",
+      "start_date": "2025-03-09",
+      "product_id": 10752,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/10752_doc_1585102671-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": "-45.02857208",
+      "longitude": "168.6562347",
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 10752,
+          "start_time": "09:00:00",
+          "end_time": "20:00:00"
+        },
+        {
+          "supplier_service_id": 10752,
+          "start_time": "17:00:00",
+          "end_time": "20:00:00"
+        }
+      ],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 4,
+      "start_time": "09:00:00",
+      "end_time": "20:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 25.83,
+        "per_unit_price": 25.83,
+        "per_child_unit_price": 15.14,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 435,
+      "supplier_name": "Gibbston Valley Winery, Restaurant & Winecave",
+      "vendor_supplier_id": 435,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Our Wine and Cheese Tours are investigatory and educational. They offer you the opportunity to explore the incredible intricacies of wine and cheese pairing. Includes 3 wine and cheese tastings.",
+      "supplier_service_name": "Cheese & Wine Tour - 30 Min",
+      "start_date": "2025-03-09",
+      "product_id": 13258,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/13258_doc_1621338156-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": "-45.01167679",
+      "longitude": "168.9150543",
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 13258,
+          "start_time": "13:00:00",
+          "end_time": "13:30:00"
+        },
+        {
+          "supplier_service_id": 13258,
+          "start_time": "14:00:00",
+          "end_time": "14:30:00"
+        },
+        {
+          "supplier_service_id": 13258,
+          "start_time": "10:00:00",
+          "end_time": "10:30:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 0,
+      "infant_age": 0,
+      "start_time": "10:00:00",
+      "end_time": "15:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 31.18,
+        "per_unit_price": 31.18,
+        "per_child_unit_price": 0,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 435,
+      "supplier_name": "Gibbston Valley Winery, Restaurant & Winecave",
+      "vendor_supplier_id": 435,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Oldest vines in Central Otago, learn about our winemaking process and go inside New Zealand's largest wine cave.\r\nAll while enjoying 4 tastings of our award winning wines.",
+      "supplier_service_name": "Winerary Tour - 45 Min",
+      "start_date": "2025-03-09",
+      "product_id": 1260,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/1260_doc_1549928494.jpg",
+      "city_name": "Queenstown",
+      "latitude": "-45.01167679",
+      "longitude": "168.9150543",
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 1260,
+          "start_time": "12:00:00",
+          "end_time": "12:45:00"
+        },
+        {
+          "supplier_service_id": 1260,
+          "start_time": "16:00:00",
+          "end_time": "16:45:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 0,
+      "infant_age": 0,
+      "start_time": "12:00:00",
+      "end_time": "17:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 32.29,
+        "per_unit_price": 32.29,
+        "per_child_unit_price": 0,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 1367,
+      "supplier_name": "Minus 5 Ice Bar  Queenstown",
+      "vendor_supplier_id": 1367,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "FREESALE",
+      "service_description": "Adult entry + mocktail",
+      "supplier_service_name": "Adult entry + 1 mocktail",
+      "start_date": "2025-03-09",
+      "product_id": 2619,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/2619_doc_1549930318.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 2,
+      "infant_age": 1,
+      "start_time": "14:00:00",
+      "end_time": "23:10:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 33.41,
+        "per_unit_price": 33.41,
+        "per_child_unit_price": 22.27,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 1413,
+      "supplier_name": "Southern Discoveries - Queenstown",
+      "vendor_supplier_id": 1413,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Spirit of Queenstown offers the longest, premium cruising experience on Lake Wakatipu. Board the vessel and enjoy a return cruise towards\r\nthe western shores of the lake on a modern, spacious, purpose-built catamaran. Cruise past Bob's Cove and view flora and fauna up close, and\r\nenjoy spectacular views towards Glenorchy, Mt Earnslaw, the Southern Alps and Remarkables mountain range. The vessel design ensures\r\nunobstructed views out either side of the vessel with large, tall viewing windows and spacious outdoor decks. Informative commentary is\r\nprovided, and the wheelhouse is open to join and speak with the skipper. There is an onboard cafÃ© with a selection of hot and cold beverages\r\nand snacks available for purchase.",
+      "supplier_service_name": "Spirit of Queenstown Scenic Cruise",
+      "start_date": "2025-03-09",
+      "product_id": 3939,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/3939_doc_1586990661-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 3939,
+          "start_time": "11:00:00",
+          "end_time": "12:30:00"
+        },
+        {
+          "supplier_service_id": 3939,
+          "start_time": "13:15:00",
+          "end_time": "14:45:00"
+        },
+        {
+          "supplier_service_id": 3939,
+          "start_time": "15:15:00",
+          "end_time": "16:45:00"
+        },
+        {
+          "supplier_service_id": 3939,
+          "start_time": "11:00:00",
+          "end_time": "12:30:00"
+        },
+        {
+          "supplier_service_id": 3939,
+          "start_time": "13:30:00",
+          "end_time": "15:00:00"
+        },
+        {
+          "supplier_service_id": 3939,
+          "start_time": "15:30:00",
+          "end_time": "17:00:00"
+        },
+        {
+          "supplier_service_id": 3939,
+          "start_time": "18:30:00",
+          "end_time": "20:30:00"
+        },
+        {
+          "supplier_service_id": 3939,
+          "start_time": "18:30:00",
+          "end_time": "20:30:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 4,
+      "start_time": "11:00:00",
+      "end_time": "20:30:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 36.52,
+        "per_unit_price": 36.52,
+        "per_child_unit_price": 22.27,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 1302,
+      "supplier_name": "Go Orange - Queenstown",
+      "vendor_supplier_id": 1302,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "25 minute thrilling Go Orange Jet Boat ride. 360 degree spins. Spray jacket, life vest and goggles (should you require). Guaranteed epic views.",
+      "supplier_service_name": "RealNZ Jet Boat 25 Minute Trip",
+      "start_date": "2025-03-09",
+      "product_id": 9720,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/9720_doc_1584672854-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 9720,
+          "start_time": "11:00:00",
+          "end_time": "23:25:00"
+        },
+        {
+          "supplier_service_id": 9720,
+          "start_time": "14:00:00",
+          "end_time": "14:25:00"
+        },
+        {
+          "supplier_service_id": 9720,
+          "start_time": "10:30:00",
+          "end_time": "10:55:00"
+        },
+        {
+          "supplier_service_id": 9720,
+          "start_time": "12:00:00",
+          "end_time": "12:25:00"
+        },
+        {
+          "supplier_service_id": 9720,
+          "start_time": "14:30:00",
+          "end_time": "14:55:00"
+        },
+        {
+          "supplier_service_id": 9720,
+          "start_time": "15:00:00",
+          "end_time": "15:25:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 4,
+      "start_time": "10:00:00",
+      "end_time": "18:30:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 38.74,
+        "per_unit_price": 38.74,
+        "per_child_unit_price": 30.83,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 1367,
+      "supplier_name": "Minus 5 Ice Bar  Queenstown",
+      "vendor_supplier_id": 1367,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "FREESALE",
+      "service_description": "Adult entry + 1 cocktail",
+      "supplier_service_name": "Adult entry + 1 cocktail",
+      "start_date": "2025-03-09",
+      "product_id": 11557,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/11557_doc_1585188002-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 12,
+      "infant_age": 2,
+      "start_time": "14:00:00",
+      "end_time": "23:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 38.97,
+        "per_unit_price": 38.97,
+        "per_child_unit_price": null,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 1476,
+      "supplier_name": "Intercity Queenstown (Seat In Coach transfer from one city to another)",
+      "vendor_supplier_id": 1476,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "",
+      "supplier_service_name": "Queenstown to Wanaka",
+      "start_date": "2025-03-09",
+      "product_id": 7133,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/7133_doc_1558525816.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 7133,
+          "start_time": "08:00:00",
+          "end_time": "09:45:00"
+        },
+        {
+          "supplier_service_id": 7133,
+          "start_time": "08:10:00",
+          "end_time": "09:55:00"
+        }
+      ],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 4,
+      "start_time": "08:00:00",
+      "end_time": "08:10:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 38.98,
+        "per_unit_price": 38.98,
+        "per_child_unit_price": 26.12,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 59,
+      "supplier_name": "Skyline Queenstown",
+      "vendor_supplier_id": 59,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "FREESALE",
+      "service_description": "Take a scenic Gondola ride for quick and easy access to Queenstown's most spectacular views! The Gondola rises 450 vertical meters above Queenstown on an average incline of 37.10 to the Skyline complex on Bob's Peak.",
+      "supplier_service_name": "Gondola ride",
+      "start_date": "2025-03-09",
+      "product_id": 13681,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/13681_doc_1638778016-0.JPG",
+      "city_name": "Queenstown",
+      "latitude": "-45.02857208",
+      "longitude": "168.6562347",
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 5,
+      "start_time": "09:30:00",
+      "end_time": "21:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 39.2,
+        "per_unit_price": 39.2,
+        "per_child_unit_price": 23.16,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 1313,
+      "supplier_name": "Queenstown Expeditions",
+      "vendor_supplier_id": 1313,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "FREESALE",
+      "service_description": "Come along with Queenstown Expeditions as we take you on our Glenorchy Kiwi Special tour of fun, entertainment and ultimate sightseeing. Departing at 1pm travel onboard our purpose built 4WD luxury safari vehicle with glass roof and discover our amazing story telling of history as you travel back in time.\r\n\r\nOn arrival in Glenorchy you will have plenty of time for photos and time to relax in this beautiful top of the lake location. Enough time approx. 1.5 hours to explore Glenorchyâ€™s short walks, cafeâ€™s and local pubs before returning to Queenstown at approx. 5pm.\r\n\r\nOur 4 hour tour to Glenorchy is a must for all Kiwis wishing for the very best local sightseeing experience at a great price for the whole family.",
+      "supplier_service_name": "Glenorchy Kiwi Special Tour",
+      "start_date": "2025-03-09",
+      "product_id": 13256,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/13256_doc_1621324865-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 13256,
+          "start_time": "08:00:00",
+          "end_time": "12:00:00"
+        },
+        {
+          "supplier_service_id": 13256,
+          "start_time": "13:00:00",
+          "end_time": "17:00:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 12,
+      "infant_age": 4,
+      "start_time": "08:00:00",
+      "end_time": "17:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 40.92,
+        "per_unit_price": 40.92,
+        "per_child_unit_price": 24.22,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 157,
+      "supplier_name": "AJ Hackett Bungy - Queenstown",
+      "vendor_supplier_id": 157,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "The Zipride will have you bolting down our 130m line at over 60k's an hour. Our three lines are side by side, letting everyone take off from our Kawarau Bungy Centre in a hot pursuit for the finish line. Don't be afraid to get creative - there are lots of ways you can ride the Zipride including our favourite 'Superman'!",
+      "supplier_service_name": "Kawarau Zipride",
+      "start_date": "2025-03-09",
+      "product_id": 872,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/872_doc_1585012969-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": "-45.03091812",
+      "longitude": "168.6601715",
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 872,
+          "start_time": "10:00:00",
+          "end_time": "10:25:00"
+        },
+        {
+          "supplier_service_id": 872,
+          "start_time": "11:20:00",
+          "end_time": "11:45:00"
+        },
+        {
+          "supplier_service_id": 872,
+          "start_time": "12:40:00",
+          "end_time": "13:05:00"
+        },
+        {
+          "supplier_service_id": 872,
+          "start_time": "14:00:00",
+          "end_time": "14:25:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 8,
+      "start_time": "09:00:00",
+      "end_time": "16:45:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 44.54,
+        "per_unit_price": 44.54,
+        "per_child_unit_price": 35.63,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 157,
+      "supplier_name": "AJ Hackett Bungy - Queenstown",
+      "vendor_supplier_id": 157,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Queenstown to Nevis return transport for spectators.",
+      "supplier_service_name": "Nevis Spectator transport",
+      "start_date": "2025-03-09",
+      "product_id": 10100,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/10100_doc_1586392828-0.JPG",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 4,
+      "start_time": "08:00:00",
+      "end_time": "19:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 44.54,
+        "per_unit_price": 44.54,
+        "per_child_unit_price": 44.54,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 59,
+      "supplier_name": "Skyline Queenstown",
+      "vendor_supplier_id": 59,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "FREESALE",
+      "service_description": "Take a scenic Gondola ride for quick and easy access to Queenstown's most spectacular views! The Gondola rises 450 vertical metres above Queenstown on an average incline of 37.10 to the Skyline complex on Bob's Peak. The Luge is a fun filled gravity ride for all ages and abilities.",
+      "supplier_service_name": "Combo: Gondola & 3 Luge rides",
+      "start_date": "2025-03-09",
+      "product_id": 394,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/394_doc_1550108647.jpg",
+      "city_name": "Queenstown",
+      "latitude": "-45.02857208",
+      "longitude": "168.6562347",
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 5,
+      "start_time": "09:30:00",
+      "end_time": "21:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 51.22,
+        "per_unit_price": 51.22,
+        "per_child_unit_price": 40.09,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 1476,
+      "supplier_name": "Intercity Queenstown (Seat In Coach transfer from one city to another)",
+      "vendor_supplier_id": 1476,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "",
+      "supplier_service_name": "Queenstown to Dunedin",
+      "start_date": "2025-03-09",
+      "product_id": 7149,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/7149_doc_1558525863.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 7149,
+          "start_time": "07:45:00",
+          "end_time": "12:05:00"
+        },
+        {
+          "supplier_service_id": 7149,
+          "start_time": "16:30:00",
+          "end_time": "20:50:00"
+        },
+        {
+          "supplier_service_id": 7149,
+          "start_time": "07:45:00",
+          "end_time": "12:45:00"
+        },
+        {
+          "supplier_service_id": 7149,
+          "start_time": "16:00:00",
+          "end_time": "20:25:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 12,
+      "infant_age": 2,
+      "start_time": "07:45:00",
+      "end_time": "16:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 53.16,
+        "per_unit_price": 53.16,
+        "per_child_unit_price": 35.62,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 7088,
+      "supplier_name": "Cheeky Kiwi Travel - Queenstown",
+      "vendor_supplier_id": 7088,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Our transfers are more that just a bus trip. Run by passionate tour guides in custom built small group vehicles with full PA systems, on board entertainment and charging points next to each seat row you will not only get where you need to go but have an amazing journey as well. Our transfers are run in small groups in 7, 12 & 17 seater high end minibuses and can be private or shared transfers.",
+      "supplier_service_name": "Queenstown to Te Anau Transfer",
+      "start_date": "2025-03-09",
+      "product_id": 15390,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/15390_doc_1658915089-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 1,
+      "start_time": "06:50:00",
+      "end_time": "10:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 53.45,
+        "per_unit_price": 53.45,
+        "per_child_unit_price": 40.09,
+        "per_infant_unit_price": 40.09
+      }
+    },
+    {
+      "supplier_id": 1313,
+      "supplier_name": "Queenstown Expeditions",
+      "vendor_supplier_id": 1313,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "FREESALE",
+      "service_description": "Enjoy a fun day out and experience Arrowtown and the Gibbston Valley Area renowned for growing some of the best wines in the world. Queenstown Expeditions VIP Wine drop & Hop Tour will link you with these epic locations throughout the day. From famous Pinot Noir to locally brewed beers, your Queenstown visit must include a relaxing experience in the Queenstown wine area. Hop on Hop off off where you want, when you want!",
+      "supplier_service_name": "VIP Wine Drop & Hop Tour",
+      "start_date": "2025-03-09",
+      "product_id": 13257,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/13257_doc_1621325236-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": "-45.0086937",
+      "longitude": "168.7507477",
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 12,
+      "infant_age": 4,
+      "start_time": "11:00:00",
+      "end_time": "17:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 54.28,
+        "per_unit_price": 54.28,
+        "per_child_unit_price": 24.22,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 1454,
+      "supplier_name": "Grayline/ Great Sights Queenstown",
+      "vendor_supplier_id": 1454,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "",
+      "supplier_service_name": "ZQNTEU Queenstown-Te Anau one-way, coach only",
+      "start_date": "2025-03-09",
+      "product_id": 21920,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/21920_doc_1686247916-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 21920,
+          "start_time": "07:30:00",
+          "end_time": "19:20:00"
+        }
+      ],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 4,
+      "start_time": "07:30:00",
+      "end_time": "19:20:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 54.28,
+        "per_unit_price": 54.28,
+        "per_child_unit_price": 27.56,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 59,
+      "supplier_name": "Skyline Queenstown",
+      "vendor_supplier_id": 59,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "FREESALE",
+      "service_description": "Take a scenic Gondola ride for quick and easy access to Queenstown's most spectacular views! The Gondola rises 450 vertical metres above Queenstown on an average incline of 37.10 to the Skyline complex on Bob's Peak. The Luge is a fun filled gravity ride for all ages and abilities.",
+      "supplier_service_name": "Combo: Gondola & 5 Luge rides",
+      "start_date": "2025-03-09",
+      "product_id": 401,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/401_doc_1550108679.jpg",
+      "city_name": "Queenstown",
+      "latitude": "-45.02857208",
+      "longitude": "168.6562347",
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 5,
+      "start_time": "09:30:00",
+      "end_time": "21:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 54.56,
+        "per_unit_price": 54.56,
+        "per_child_unit_price": 44.54,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 1476,
+      "supplier_name": "Intercity Queenstown (Seat In Coach transfer from one city to another)",
+      "vendor_supplier_id": 1476,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "",
+      "supplier_service_name": "Queenstown to  Tekapo",
+      "start_date": "2025-03-09",
+      "product_id": 7164,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/7164_doc_1558525766.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 7164,
+          "start_time": "08:05:00",
+          "end_time": "12:05:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 12,
+      "infant_age": 2,
+      "start_time": "08:05:00",
+      "end_time": "12:05:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 56.7,
+        "per_unit_price": 56.7,
+        "per_child_unit_price": 37.99,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 1413,
+      "supplier_name": "Southern Discoveries - Queenstown",
+      "vendor_supplier_id": 1413,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Spirit of Queenstown offers the longest, premium cruising experience on Lake Wakatipu. Board the vessel and enjoy a return cruise towards\r\nthe western shores of the lake on a modern, spacious, purpose-built catamaran. Cruise past Bob's Cove and view flora and fauna up close, and\r\nenjoy spectacular views towards Glenorchy, Mt Earnslaw, the Southern Alps and Remarkables mountain range. The vessel design ensures\r\nunobstructed views out either side of the vessel with large, tall viewing windows and spacious outdoor decks. Informative commentary is\r\nprovided, and the wheelhouse is open to join and speak with the skipper. There is an onboard cafÃ© with a selection of hot and cold beverages\r\nand snacks available for purchase.",
+      "supplier_service_name": "Spirit Of Queenstown Scenic Cruise with Wine and Cheese",
+      "start_date": "2025-03-09",
+      "product_id": 13515,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/13515_doc_1653474150-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 13515,
+          "start_time": "11:00:00",
+          "end_time": "12:30:00"
+        },
+        {
+          "supplier_service_id": 13515,
+          "start_time": "13:15:00",
+          "end_time": "14:45:00"
+        },
+        {
+          "supplier_service_id": 13515,
+          "start_time": "15:15:00",
+          "end_time": "16:45:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 4,
+      "start_time": "13:15:00",
+      "end_time": "14:45:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 63.25,
+        "per_unit_price": 63.25,
+        "per_child_unit_price": 8.91,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 1413,
+      "supplier_name": "Southern Discoveries - Queenstown",
+      "vendor_supplier_id": 1413,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Spirit of Queenstown offers the longest, premium cruising experience on Lake Wakatipu. Board the vessel and enjoy a return cruise towards\r\nthe western shores of the lake on a modern, spacious, purpose-built catamaran. Cruise past Bob's Cove and view flora and fauna up close, and\r\nenjoy spectacular views towards Glenorchy, Mt Earnslaw, the Southern Alps and Remarkables mountain range. The vessel design ensures\r\nunobstructed views out either side of the vessel with large, tall viewing windows and spacious outdoor decks. Informative commentary is\r\nprovided, and the wheelhouse is open to join and speak with the skipper. There is an onboard cafÃ© with a selection of hot and cold beverages\r\nand snacks available for purchase.",
+      "supplier_service_name": "Spirit Of Queenstown Scenic Cruise with Wine or Soft Drink and Cheese",
+      "start_date": "2025-03-09",
+      "product_id": 13517,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/13517_doc_1653474344-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 13517,
+          "start_time": "17:15:00",
+          "end_time": "18:45:00"
+        },
+        {
+          "supplier_service_id": 13517,
+          "start_time": "11:00:00",
+          "end_time": "12:30:00"
+        },
+        {
+          "supplier_service_id": 13517,
+          "start_time": "13:30:00",
+          "end_time": "15:00:00"
+        },
+        {
+          "supplier_service_id": 13517,
+          "start_time": "15:30:00",
+          "end_time": "17:00:00"
+        },
+        {
+          "supplier_service_id": 13517,
+          "start_time": "18:30:00",
+          "end_time": "20:30:00"
+        },
+        {
+          "supplier_service_id": 13517,
+          "start_time": "18:30:00",
+          "end_time": "20:30:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 4,
+      "start_time": "11:00:00",
+      "end_time": "20:30:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 63.25,
+        "per_unit_price": 63.25,
+        "per_child_unit_price": 8.91,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 120,
+      "supplier_name": "RealNZ - Queenstown",
+      "vendor_supplier_id": 120,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "One of Queenstown's most iconic experiences across Lake Wakatipu\r\nshowcases some of the region's spectacular alpine scenery while offering plenty\r\nof time to explore a piece of living history. Today, the TSS Earnslaw is believed\r\nto be the oldest working coal-fired passenger steamship in the southern\r\nhemisphere. Guests can explore the decks from the engine room viewing\r\nplatform to the Skipper's wheelhouse. They can feel the heat of the giant steam\r\nengines at work and watch the stokers shovel coal into the glowing fireboxes.\r\nGuests can discover a mini museum, the Fo'c'sle gallery, where they can view a\r\ncollection of historic photos. Or enjoy a drink and some cafe style food at the\r\nPromenade Cafe and Bar. On the return journey guests enjoy a sing-a-long with\r\nthe pianist - it is a guaranteed bit of fun. The captain provides commentary and\r\nhighlights points of interest during the cruise. Suitable for all ages.\r\n\r\nPlease note: TSS Earnslaw cruise only passengers do not disembark at Walter\r\nPeak.",
+      "supplier_service_name": "TSS Earnslaw Cruises Ex Queenstown - RJ500",
+      "start_date": "2025-03-09",
+      "product_id": 664,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/664_doc_1553689094.jpg",
+      "city_name": "Queenstown",
+      "latitude": "-44.66822052",
+      "longitude": "167.9269104",
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 664,
+          "start_time": "10:00:00",
+          "end_time": "11:30:00"
+        },
+        {
+          "supplier_service_id": 664,
+          "start_time": "12:00:00",
+          "end_time": "13:30:00"
+        },
+        {
+          "supplier_service_id": 664,
+          "start_time": "18:00:00",
+          "end_time": "19:30:00"
+        },
+        {
+          "supplier_service_id": 664,
+          "start_time": "20:00:00",
+          "end_time": "21:30:00"
+        },
+        {
+          "supplier_service_id": 664,
+          "start_time": "14:00:00",
+          "end_time": "15:30:00"
+        },
+        {
+          "supplier_service_id": 664,
+          "start_time": "16:00:00",
+          "end_time": "17:30:00"
+        },
+        {
+          "supplier_service_id": 664,
+          "start_time": "12:00:00",
+          "end_time": "13:30:00"
+        },
+        {
+          "supplier_service_id": 664,
+          "start_time": "14:00:00",
+          "end_time": "15:45:00"
+        },
+        {
+          "supplier_service_id": 664,
+          "start_time": "10:00:00",
+          "end_time": "11:30:00"
+        },
+        {
+          "supplier_service_id": 664,
+          "start_time": "16:00:00",
+          "end_time": "17:45:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 15,
+      "infant_age": 3,
+      "start_time": "10:00:00",
+      "end_time": "16:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 64.14,
+        "per_unit_price": 64.14,
+        "per_child_unit_price": 26.72,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 1399,
+      "supplier_name": "Pure Milford - Queenstown",
+      "vendor_supplier_id": 1399,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Our Premium Cruise vessel has been specifically designed to capture the views of Milford Sound with it's unique glass roof and large viewing decks.\r\n\r\nThe â€˜Gem of the Soundâ€™ offers an outstanding experience never seen in Milford Sound with an exceptional level of comfort and hospitality.\r\n\r\nA selection of snacks and noodles can be purchased on board along with a wide range of drinks from New Zealand and around the world. \r\n\r\nVisit the stunning Milford Sound on board an equally premium vessel that will look after you and your unique experience. \r\n\r\nPlease note: Milford Sound is approximately 4 hours drive from Queenstown or 2 hours from Te Anau.",
+      "supplier_service_name": "Premium Cruise - Gem of the Sounds (Cruise Only)",
+      "start_date": "2025-03-09",
+      "product_id": 3827,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/3827_doc_1588306825-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 3827,
+          "start_time": "11:00:00",
+          "end_time": "13:00:00"
+        },
+        {
+          "supplier_service_id": 3827,
+          "start_time": "13:45:00",
+          "end_time": "15:30:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 4,
+      "start_time": "15:35:00",
+      "end_time": "17:05:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 66.25,
+        "per_unit_price": 66.25,
+        "per_child_unit_price": 24.5,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 59,
+      "supplier_name": "Skyline Queenstown",
+      "vendor_supplier_id": 59,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Enjoy a scenic Gondola ride and sumptuous buffet-style lunch at Stratosfare Restaurant, serving iconic New Zealand dishes infused with international flair. Allow at least 20 minutes (40 mins in peak periods) to travel up the Gondola prior to the time booked for Lunch.",
+      "supplier_service_name": "Combo: Gondola &  Buffet Lunch (Continental meal)",
+      "start_date": "2025-03-09",
+      "product_id": 398,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/398_doc_1585095493-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": "-45.02857208",
+      "longitude": "168.6562347",
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 398,
+          "start_time": "12:00:00",
+          "end_time": "13:30:00"
+        },
+        {
+          "supplier_service_id": 398,
+          "start_time": "12:15:00",
+          "end_time": "13:45:00"
+        },
+        {
+          "supplier_service_id": 398,
+          "start_time": "12:30:00",
+          "end_time": "14:00:00"
+        },
+        {
+          "supplier_service_id": 398,
+          "start_time": "13:15:00",
+          "end_time": "14:45:00"
+        },
+        {
+          "supplier_service_id": 398,
+          "start_time": "13:30:00",
+          "end_time": "14:45:00"
+        },
+        {
+          "supplier_service_id": 398,
+          "start_time": "11:45:00",
+          "end_time": "12:15:00"
+        },
+        {
+          "supplier_service_id": 398,
+          "start_time": "11:30:00",
+          "end_time": "13:00:00"
+        },
+        {
+          "supplier_service_id": 398,
+          "start_time": "12:30:00",
+          "end_time": "13:30:00"
+        },
+        {
+          "supplier_service_id": 398,
+          "start_time": "12:45:00",
+          "end_time": "13:45:00"
+        },
+        {
+          "supplier_service_id": 398,
+          "start_time": "13:00:00",
+          "end_time": "14:00:00"
+        },
+        {
+          "supplier_service_id": 398,
+          "start_time": "13:15:00",
+          "end_time": "14:15:00"
+        }
+      ],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 5,
+      "start_time": "09:30:00",
+      "end_time": "21:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 69.04,
+        "per_unit_price": 69.04,
+        "per_child_unit_price": 41.35,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 59,
+      "supplier_name": "Skyline Queenstown",
+      "vendor_supplier_id": 59,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Take a scenic Gondola ride for quick and easy access to Queenstown's most spectacular views! The Gondola rises 450 vertical metres above Queenstown on an average incline of 37.10 to the Skyline complex on Bob's Peak. The Luge is a fun filled gravity ride for all ages and abilities.",
+      "supplier_service_name": "Combo: Gondola & 6 Luge rides",
+      "start_date": "2025-03-09",
+      "product_id": 19487,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/19487_doc_1675272348-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": "-45.02857208",
+      "longitude": "168.6562347",
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 5,
+      "start_time": "09:30:00",
+      "end_time": "21:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 70.37,
+        "per_unit_price": 70.37,
+        "per_child_unit_price": 49,
+        "per_infant_unit_price": 4.45
+      }
+    },
+    {
+      "supplier_id": 7088,
+      "supplier_name": "Cheeky Kiwi Travel - Queenstown",
+      "vendor_supplier_id": 7088,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Our transfers are more that just a bus trip. Run by passionate tour guides in custom built small group vehicles with full PA systems, on board entertainment and charging points next to each seat row you will not only get where you need to go but have an amazing journey as well. Our transfers are run in small groups in 7, 12 & 17 seater high end minibuses and can be private or shared transfers.",
+      "supplier_service_name": "Queenstown to Te Anau Downs Transfer",
+      "start_date": "2025-03-09",
+      "product_id": 15391,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/15391_doc_1658915614-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 1,
+      "start_time": "06:30:00",
+      "end_time": "13:55:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 73.05,
+        "per_unit_price": 73.05,
+        "per_child_unit_price": 57.01,
+        "per_infant_unit_price": 57.01
+      }
+    },
+    {
+      "supplier_id": 1619,
+      "supplier_name": "KJet Queenstown",
+      "vendor_supplier_id": 1619,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Time conscious â€“ KJet offers an express Jet boat ride catering to your clientâ€™s needs. 30-40 Minutes of\r\nJet boating, departing from either Queenstown Marina, Frankton or the Main Town Pier, Queenstown Bay\r\n(*minimum numbers apply).",
+      "supplier_service_name": "KJet (Express Jet Boat Ride)",
+      "start_date": "2025-03-09",
+      "product_id": 24333,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/24333_doc_1696912556-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 24333,
+          "start_time": "10:00:00",
+          "end_time": "10:30:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "11:00:00",
+          "end_time": "11:30:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "12:00:00",
+          "end_time": "12:30:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "13:00:00",
+          "end_time": "13:30:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "14:00:00",
+          "end_time": "14:30:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "15:00:00",
+          "end_time": "15:30:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "16:00:00",
+          "end_time": "16:30:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "17:00:00",
+          "end_time": "17:30:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "18:00:00",
+          "end_time": "18:30:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "10:00:00",
+          "end_time": "11:00:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "11:00:00",
+          "end_time": "12:00:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "12:00:00",
+          "end_time": "13:00:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "13:00:00",
+          "end_time": "14:00:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "14:00:00",
+          "end_time": "15:00:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "15:00:00",
+          "end_time": "16:00:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "16:00:00",
+          "end_time": "17:00:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "17:00:00",
+          "end_time": "18:00:00"
+        },
+        {
+          "supplier_service_id": 24333,
+          "start_time": "18:00:00",
+          "end_time": "19:00:00"
+        }
+      ],
+      "has_time_slot": 0,
+      "consumed_tourist": 1,
+      "child_age": 14,
+      "infant_age": 4,
+      "start_time": "09:30:00",
+      "end_time": "18:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 77.17,
+        "per_unit_price": 77.17,
+        "per_child_unit_price": 53.78,
+        "per_infant_unit_price": 0
+      }
+    },
+    {
+      "supplier_id": 123,
+      "supplier_name": "Onsen Hot Pools - Queesntown",
+      "vendor_supplier_id": 123,
+      "vendor_name": "VYOM_ACTIVITY",
+      "type": "ONREQUEST_ACTIVITY",
+      "service_description": "Clients have an exclusive pool room with changing area and shower, overlooking the Shotover Canyon. Includes a complementary drink and snack package - (previously known as the Tandeki package)\r\nThe 1 hour includes time to change and shower.\r\nTowels are included, Swimming costumes are compulsory and they have a choice of an alcoholic or non-alcoholic drink and a selection of New Zealand products - either a Whittaker's chocolate bar, Pure ice cream or Proper hand cooked crisps.",
+      "supplier_service_name": "The Original Onsen Indoor soak - (Pool 1 person)",
+      "start_date": "2025-03-09",
+      "product_id": 10293,
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/10293_doc_1585429291-0.jpg",
+      "city_name": "Queenstown",
+      "latitude": null,
+      "longitude": null,
+      "considered_booking_date": "2025-03-09",
+      "booking_start_date": "09 March, 2025",
+      "category_key": "activities",
+      "booking_ui_enabled": false,
+      "timeslots": [
+        {
+          "supplier_service_id": 10293,
+          "start_time": "09:00:00",
+          "end_time": "16:30:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "09:00:00",
+          "end_time": "10:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "10:00:00",
+          "end_time": "11:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "11:00:00",
+          "end_time": "12:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "12:00:00",
+          "end_time": "13:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "13:00:00",
+          "end_time": "14:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "14:00:00",
+          "end_time": "15:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "15:00:00",
+          "end_time": "16:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "16:00:00",
+          "end_time": "17:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "17:00:00",
+          "end_time": "18:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "18:00:00",
+          "end_time": "19:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "19:00:00",
+          "end_time": "20:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "20:00:00",
+          "end_time": "21:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "21:00:00",
+          "end_time": "22:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "09:00:00",
+          "end_time": "10:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "10:00:00",
+          "end_time": "11:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "11:00:00",
+          "end_time": "12:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "12:00:00",
+          "end_time": "13:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "13:00:00",
+          "end_time": "14:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "14:00:00",
+          "end_time": "15:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "15:00:00",
+          "end_time": "16:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "16:00:00",
+          "end_time": "17:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "17:00:00",
+          "end_time": "18:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "18:00:00",
+          "end_time": "19:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "19:00:00",
+          "end_time": "20:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "20:00:00",
+          "end_time": "21:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "21:00:00",
+          "end_time": "22:00:00"
+        },
+        {
+          "supplier_service_id": 10293,
+          "start_time": "22:00:00",
+          "end_time": "23:00:00"
+        }
+      ],
+      "has_time_slot": 1,
+      "consumed_tourist": 1,
+      "child_age": 11,
+      "infant_age": 4,
+      "start_time": "09:00:00",
+      "end_time": "22:00:00",
+      "aPrice": {
+        "price_available": true,
+        "total_price": 77.95,
+        "per_unit_price": 77.95,
+        "per_child_unit_price": 28.95,
+        "per_infant_unit_price": 0
+      }
+    }
+  ]
+}

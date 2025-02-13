@@ -1,0 +1,862 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "supplier_id": 1905,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 358.44,
+      "description": "HeadLine : Near Onsen Hot PoolsLocation : When you stay at Queenstown TOP 10 Holiday Park in Arthur s Point, you ll be on a river, within a 15-minute drive of Skyline Gondola and Coronet Pea",
+      "rating": 3,
+      "relevancy": 99999,
+      "supplier_name": "Queenstown TOP 10 Holiday Park",
+      "hotel_info": {
+        "name": "Queenstown TOP 10 Holiday Park"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 1905,
+          "distance": 5.31,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1905,
+          "distance": 5.41,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1082,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 382.63,
+      "description": "Our Ensuite room consist of a double bed and a single bed, with its own bathroom, and shared kitchen and living room facilities.",
+      "rating": 2,
+      "relevancy": 99999,
+      "supplier_name": "Pinewood Lodge",
+      "hotel_info": {
+        "name": "Pinewood Lodge"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/2226_doc_1591934871-0.jpg",
+      "prime_location_distance": [
+        {
+          "supllier_id": 1082,
+          "distance": 0.72,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1082,
+          "distance": 0.74,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1909,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 521.98,
+      "description": "HeadLine : Near Skyline GondolaLocation : When you stay at Earnslaw Lodge in Queenstown, you ll be near the beach, within a 5-minute drive of Lake Wakatipu and Skyline Gondola.  This motel i",
+      "rating": 3,
+      "relevancy": 99999,
+      "supplier_name": "Earnslaw Lodge",
+      "hotel_info": {
+        "name": "Earnslaw Lodge"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 1909,
+          "distance": 0.74,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1909,
+          "distance": 0.78,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1318,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 536.35,
+      "description": "Wyndham Garden takes pride in offering warm, comfortable and friendly accommodation no matter where you travel around the globe. As a guest of Wyndham Garden, you can enjoy free high-speed wireless Internet access, a cozy bed for the evening and a restful stay, including a variety of hotel accommodation choices to match every trip; from family vacations or weekend getaways, to a full-scale conferences or weddings.\n\nAt Wyndham Garden, we are dedicated and committed to creating authentic experiences for every person, every time, and strive to make our guests feel truly refreshed and restored during their stay.",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "Wyndham Gardens Hotel & Suites, Queenstown",
+      "hotel_info": {
+        "name": "Wyndham Gardens Hotel & Suites, Queenstown"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/9519_doc_1563776076-0.jpg",
+      "prime_location_distance": [
+        {
+          "supllier_id": 1318,
+          "distance": 6.66,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1318,
+          "distance": 6.75,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1890,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 545.09,
+      "description": "HeadLine : Near Karaka Sales ComplexLocation : With a stay at Colonial Motel in Papakura, you ll be within a 15-minute drive of Rainbow s End and Karaka Sales Complex.  This motel is 12.9 mi",
+      "rating": 3,
+      "relevancy": 99999,
+      "supplier_name": "Colonial Motel",
+      "hotel_info": {
+        "name": "Colonial Motel"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 1890,
+          "distance": 1028.43,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1890,
+          "distance": 1028.54,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1941,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 551.46,
+      "description": "HeadLine : Near the airportLocation : When you stay at this cottage in Lower Shotover, you ll be near the airport, within a 15-minute drive of Lake Wakatipu and Gibbston Valley Winery.  This",
+      "rating": 3,
+      "relevancy": 99999,
+      "supplier_name": "Shotover Country Cottages",
+      "hotel_info": {
+        "name": "Shotover Country Cottages"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 1941,
+          "distance": 9.43,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1941,
+          "distance": 9.53,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 662,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 562.17,
+      "description": "The Holiday Inn Queenstown Frankton Road in Queenstown, New Zealand combines affordable hotel accommodation, with what is considered by many to be one of the best lake and mountain hotel views in New Zealand.\n74 Guest rooms\nRestaurant\nHotel Bar\nSpa\nSauna\n24 Hour reception\nLuggage Storage\nBaby sitting\nMeeting Room\nSki Storage/Drying Room\nFree of Cost 7 Seater hotel shuttle to CBD available.",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "Holiday Inn Queenstown",
+      "hotel_info": {
+        "name": "Holiday Inn Queenstown"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/14371_doc_1654270453-0.jfif",
+      "prime_location_distance": [
+        {
+          "supllier_id": 662,
+          "distance": 3,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 662,
+          "distance": 3.11,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 7021,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 564.19,
+      "description": "The beautifully appointed Holiday Inn Queenstown Remarkables Park set at the base of the Remarkables ski area is the perfect destination for business and leisure travellers alike.\nConveniently located near Queenstown airport and 20 minutes from the city centre, Holiday Inn Queenstown Remarkables Park boasts 182 spacious rooms and suites and state-of-the-art facilities including meeting\nrooms, ski room and inviting open lobby that offers flexible spaces to suit your needs, whether you want to eat, drink, work, relax or socialise. Savor your favorite dish at the hotel's restaurant, or opt for grab-and-go\noptions from our stylish cafÃ© - our menu has something for everyone day and night. If you travel as a family, take advantage of the Holiday Inn'sÂ® signature â€˜Kids Stay and Eat FreeÂ®' perks which are designed to keep\nkids happy and parents smile.\nBe it for vacation or work, make Holiday Inn Queenstown Remarkables Park your first choice for your next visit to Queenstown.",
+      "rating": 0,
+      "relevancy": 99999,
+      "supplier_name": "HOLIDAY INN QUEENSTOWN REMARKABLES PARK",
+      "hotel_info": {
+        "name": "HOLIDAY INN QUEENSTOWN REMARKABLES PARK"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/19189_doc_1673971742-0.jfif",
+      "prime_location_distance": [
+        {
+          "supllier_id": 7021,
+          "distance": 10013.88,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 7021,
+          "distance": 10013.96,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 319,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 602.15,
+      "description": "Discover a Queenstown hotel where exuberant design meets breathtaking natural beauty; a hotel that celebrates all the excitement and adventure of New Zealand's best-loved playground. Discover the new Kawarau Hotel, managed by Hilton, in Queenstown's Kawarau Village on the shores of beautiful Lake Wakatipu.",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "Doubletree managed by Hilton Queenstown",
+      "hotel_info": {
+        "name": "Doubletree managed by Hilton Queenstown"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/1153_doc_1555930627.jpg",
+      "prime_location_distance": [
+        {
+          "supllier_id": 319,
+          "distance": 5.11,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 319,
+          "distance": 5.2,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1688,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 608.73,
+      "description": "If you are looking for clean, quality and comfortable accommodation in a quiet central location look no further. Bella Vista has it all!\n\nWe have room types to suit everyone, from the solo traveler to a family group.\n\nOur modern, fully serviced complex has a majestic backdrop and is set amidst stunning alpine scenery with restaurants, cafÃ©s and wine bars all within walking distance. We are only 5 minutes walk from the Skyline Gondola which takes you to the top of Bobs Peak, giving you spectacular views over Queenstown.\n\nBella Vista is the perfect base for you to explore Queenstown which is often described as a cosmopolitan haven, offering unlimited adventure, southern wine and cuisine, plus breathtaking alpine scenery. Warm summers and spectacular winters ensure Queenstown is an idyllic holiday location.\n\nOur warm friendly and informative service will make your stay both enjoyable and memorable. Take advantage of our complimentary booking service and local knowledge. Our staff will be pleased to assist you in any way possible to make your visit to Queenstown truly unforgettable.",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "Bella Vista Motel Queenstown",
+      "hotel_info": {
+        "name": "Bella Vista Motel Queenstown"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/11771_doc_1591573931-0.jpg",
+      "prime_location_distance": [
+        {
+          "supllier_id": 1688,
+          "distance": 0.49,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1688,
+          "distance": 0.54,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 7199,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 629.92,
+      "description": "With unparalleled views of the Remarkables Mountain Range as well as the Kawarau River, LQ Queenstown by Wyndham is a property that offers a combination of Hotel rooms and well-appointed Apartment style rooms in a range of sizes and configurations, which feature air-conditioning, the latter having in-room kitchenettes with stovetop, microwave, refrigerator/freezer as well as in-room laundry facilities. All guests have free unlimited Wi-Fi, as well as access to a 24-hour Gym with plenty of complimentary on-site parking available. LQ Queenstown by Wyndham offers free Wi-Fi access available in all public areas, including the independently owned and operated Frank's Market for your food and beverage requirements, located just three minutes' drive from Queenstown Airport and only fifteen minutes from the central city.",
+      "rating": 0,
+      "relevancy": 99999,
+      "supplier_name": "LQ Queenstown by Wyndham",
+      "hotel_info": {
+        "name": "LQ Queenstown by Wyndham"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 7199,
+          "distance": 6.88,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 7199,
+          "distance": 6.97,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1539,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 631,
+      "description": "Ramada Hotel & Suites Queenstown Remarkables Park is ideally located near some of New Zealandâ€™s premiere ski fields in the vibrant and beautiful tourist city of Queenstown. Hit the slopes for winter skiing and snowboarding or mountain biking in summer. Get your hearts racing at one of the many nearby tourist attractions and activities! An adrenaline rush is never far away in Queenstown, with mountain climbing, rafting, skydiving and parasailing all based within 25km of the hotel. A golf course is just down the street, while a range of restaurants, bars and nightclubs are also in a close radius.",
+      "rating": 3,
+      "relevancy": 99999,
+      "supplier_name": "Ramada Suites by Wyndham Queenstown Remarkables Park",
+      "hotel_info": {
+        "name": "Ramada Suites by Wyndham Queenstown Remarkables Park"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/14899_doc_1656333663-0.jpg",
+      "prime_location_distance": [
+        {
+          "supllier_id": 1539,
+          "distance": 6.62,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1539,
+          "distance": 6.71,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 48,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 702.04,
+      "description": "Situated on a unique vantage point with breathtaking, majestic views over Lake Wakatipu and the Remarkables Mountains.148 guest rooms with either spectacular views. Facilities include a seasonal swimming pool, sauna, gymnasium and sports storage room. Enjoy atruim views and superb cuisine at the Vista Restaurant and relax in the Lounge Bar for coffees, tapas and beverages.",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "Mercure Queenstown Resort",
+      "hotel_info": {
+        "name": "Mercure Queenstown Resort"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/333_doc_1591663380-0.jpg",
+      "prime_location_distance": [
+        {
+          "supllier_id": 48,
+          "distance": 1.95,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        },
+        {
+          "supllier_id": 48,
+          "distance": 2.06,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1942,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 702.08,
+      "description": "HeadLine : Near Skyline GondolaLocation : With a stay at Amity Serviced Apartments in Queenstown, you ll be near the beach, within a 10-minute walk of Queenstown Mall and Queenstown Gardens.",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "Amity Lodge Motel",
+      "hotel_info": {
+        "name": "Amity Lodge Motel"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 1942,
+          "distance": 0.46,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1942,
+          "distance": 0.5,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 700,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 719.45,
+      "description": "Swiss-Belresort Coronet Peak offers guests the pure comfort of 3.5-star accommodation, and our 75 guest rooms come full serviced with private bathrooms. Thereâ€™s a complimentary shuttle to whisk you into the action or to be there waiting when the peace and quiet calls you back again.\n\nNature is at your doorstep. Swiss-Belresort Coronet Peak is conveniently located near hiking and biking trails that will lead you up and into the mountains while the Shotover River Jet area is just 1km away, presenting a range of adventure options.",
+      "rating": 3,
+      "relevancy": 99999,
+      "supplier_name": "Swiss Belresort Coronet Peak",
+      "hotel_info": {
+        "name": "Swiss Belresort Coronet Peak"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/24571_doc_1697701251-0.jpeg",
+      "prime_location_distance": [
+        {
+          "supllier_id": 700,
+          "distance": 6.03,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 700,
+          "distance": 6.12,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 180,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 744.66,
+      "description": "The only Queenstown hotel positioned directly on the shores of Lake Wakatipu, Hilton Queenstown's luxury accommodation showcases panoramic views over the lake, the Remarkables and an unspoilt landscape famed the world over. Stroll through vibrant Kawarau Village and sample the best of New Zealand at a range of tempting restaurants and bars.",
+      "rating": 5,
+      "relevancy": 99999,
+      "supplier_name": "Hilton Queenstown",
+      "hotel_info": {
+        "name": "Hilton Queenstown"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/12241_doc_1597080197-0.jpg",
+      "prime_location_distance": [
+        {
+          "supllier_id": 180,
+          "distance": 5.11,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 180,
+          "distance": 5.2,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1918,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 754.01,
+      "description": "HeadLine : Near Skyline GondolaLocation : With a stay at Queenstown Motel Apartments in Queenstown, you ll be near the beach, a 3-minute walk from Lake Wakatipu and a 2-minute drive from Sky",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "Queenstown Motel Apartments",
+      "hotel_info": {
+        "name": "Queenstown Motel Apartments"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 1918,
+          "distance": 0.62,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1918,
+          "distance": 0.66,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 242,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 771.19,
+      "description": "Located on the very scenic Lake Wakatipu, Oaks Shores is a luxuriously appointed Queenstown apartment-style hotel in the most popular New Zealandâ€™s ski resort town, Queenstown. Each spacious apartment is impeccably appointed with chic, contemporary furnishings and balconies, most with stunning views over the lake and mountain ranges (Hotel Rooms do not have views).",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "Oaks Shores Queenstown",
+      "hotel_info": {
+        "name": "Oaks Shores Queenstown"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/10054_doc_1591921972-0.jpg",
+      "prime_location_distance": [
+        {
+          "supllier_id": 242,
+          "distance": 1.86,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 242,
+          "distance": 1.95,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1901,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 801.74,
+      "description": "HeadLine : Near Skyline GondolaLocation : When you stay at Lakeside Motel - Queenstown in Queenstown, you ll be on a lake, just steps from Lake Wakatipu and 12 minutes by foot from Skyline G",
+      "rating": 2,
+      "relevancy": 99999,
+      "supplier_name": "Lakeside Motel Queenstown",
+      "hotel_info": {
+        "name": "Lakeside Motel Queenstown"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 1901,
+          "distance": 0.66,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        },
+        {
+          "supllier_id": 1901,
+          "distance": 0.77,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1295,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 812.76,
+      "description": "Located just 10 minute stroll from the town centre spacious Swiss-Belsuites Pounamu Queenstown are luxury apartments/suites and studio rooms offering uninterrupted views of Lake Wakatipu that provide comfort and warmth, privacy, spacious living, just like a home away from home. Take advantage of the complimentary WiFi, underground car parking and secure ski/golf storage lockers. Other services include free access to gym, and bikes for rental and much more. The apartments/suites and studio rooms offer spacious comfort along with stunning views of Lake Wakatipu and The Remarkables along with modern, quality fittings and furnishings ideal for business, leisure, couples or friends getaways.",
+      "rating": 5,
+      "relevancy": 99999,
+      "supplier_name": "Swiss-Belsuites Pounamu Queenstown",
+      "hotel_info": {
+        "name": "Swiss-Belsuites Pounamu Queenstown"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/11680_doc_1592456072-0.jpeg",
+      "prime_location_distance": [
+        {
+          "supllier_id": 1295,
+          "distance": 0.92,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1295,
+          "distance": 0.97,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1683,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 818.71,
+      "description": "The newly built 4-star Holiday Inn Express & Suites Queenstown is located in the prime position on the corner of Stanley and Sydney streets in Queenstown, providing close proximity to the city centre shopping, entertainment and outdoor activities. The location also provides easy access to popular ski destinations of Coronet Peak, Remarkables, and Cardrona.",
+      "rating": 0,
+      "relevancy": 99999,
+      "supplier_name": "Holiday Inn Express & Suites Queenstown",
+      "hotel_info": {
+        "name": "Holiday Inn Express & Suites Queenstown"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/14381_doc_1654326198-0.jfif",
+      "prime_location_distance": [
+        {
+          "supllier_id": 1683,
+          "distance": 14884.75,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        },
+        {
+          "supllier_id": 1683,
+          "distance": 14884.84,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1971,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 841.25,
+      "description": "HeadLine : Near Mt. Rosa WinesLocation : With a stay at Gibbston House in Gibbston, you ll be near ski lifts, within a 10-minute drive of Gibbston Valley Winery and Mt. Rosa Wines.  This 4-s",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "Gibbston House",
+      "hotel_info": {
+        "name": "Gibbston House"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 1971,
+          "distance": 24.35,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1971,
+          "distance": 24.42,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1919,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 854.76,
+      "description": "HeadLine : Near Skyline GondolaLocation : When you stay at Caples Court in Queenstown, you ll be near the beach, within a 15-minute walk of Lake Wakatipu and Skyline Gondola.  This apartment",
+      "rating": 3,
+      "relevancy": 99999,
+      "supplier_name": "Caples Court",
+      "hotel_info": {
+        "name": "Caples Court"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 1919,
+          "distance": 0.26,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1919,
+          "distance": 0.29,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1913,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 856.9,
+      "description": "HeadLine : Near Queenstown GardensLocation : With a stay at St James Apartments, you ll be centrally located in Queenstown, just a 4-minute walk from Lake Wakatipu and 7 minutes by foot from",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "St James Apartments",
+      "hotel_info": {
+        "name": "St James Apartments"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 1913,
+          "distance": 0.17,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1913,
+          "distance": 0.18,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1934,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 868.55,
+      "description": "HeadLine : Near Waitiri Creek WinesLocation : Located in Gibbston, Kinross Cottages is on the riverwalk, a 4-minute drive from Kawarau Suspension Bridge and 10 minutes from Chard Farm.  This",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "Kinross Cottages",
+      "hotel_info": {
+        "name": "Kinross Cottages"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 1934,
+          "distance": 24.17,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1934,
+          "distance": 24.25,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 40,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 880.22,
+      "description": "At the Millennium Hotel Queenstown, you will always find spellbinding luxury and it is easy to relax in the air of timeless elegance. This welcoming Queenstown hotel captures the essence of a truly unique region and is perfect for either an international conference venue or as a restful haven from the rigours of Queenstown's many outdoor adventure pursuits.",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "Millennium Hotel Queenstown",
+      "hotel_info": {
+        "name": "Millennium Hotel Queenstown"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/13306_doc_1638814313-0.jpg",
+      "prime_location_distance": [
+        {
+          "supllier_id": 40,
+          "distance": 0.47,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 40,
+          "distance": 0.49,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1743,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 904.94,
+      "description": "Our suites and apartments are set in a relaxing garden environment that captures all day sun and beautiful views of Lake Wakatipu and the surrounding mountains.\n\nWe are located on the corner of Frankton Road (the main road into Queenstown) and Adelaide Street, a leisurely five minute walk from the centre of Queenstown, a short 10 minute drive from Queenstown International Airport and right on the local bus route.",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "Garden Court Suites & Apartments",
+      "hotel_info": {
+        "name": "Garden Court Suites & Apartments"
+      },
+      "image_name": "https://vyoms3.s3.ap-southeast-2.amazonaws.com/nzplanner/assets/data/service-image/20052_doc_1677045200-0.jpg",
+      "prime_location_distance": [
+        {
+          "supllier_id": 1743,
+          "distance": 0.51,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1743,
+          "distance": 0.54,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1976,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 922,
+      "description": "Abba Court Motel offers affordable and friendly self-contained accommodation with free onsite parking. It is just 900 metres from the Skyline Gondolas and a 2-minute walk from supermarkets. Guests enj",
+      "rating": 4,
+      "relevancy": 99999,
+      "supplier_name": "Abba Court Motel",
+      "hotel_info": {
+        "name": "Abba Court Motel"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 1976,
+          "distance": 0.6,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1976,
+          "distance": 0.67,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 7135,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 935.36,
+      "description": "Thank you for choosing our Ramada By Wyndham Queenstown Central hotel. Ramada is a global upper-midscale hotel brand with over 820 properties located in over 50 countries worldwide. Most Ramada hotels feature free wired and wireless high-speed internet access, meeting rooms, business services, fitness facilities and upgraded bath amenities. Many properties have an on-site restaurant/lounge, while other sites offer a complimentary continental breakfast. You do your thing, leave the rest to us.",
+      "rating": 0,
+      "relevancy": 99999,
+      "supplier_name": "Ramada by Wyndham Queenstown Central",
+      "hotel_info": {
+        "name": "Ramada by Wyndham Queenstown Central"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 7135,
+          "distance": 0.41,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 7135,
+          "distance": 0.42,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    },
+    {
+      "supplier_id": 1900,
+      "location": {
+        "latitude": "",
+        "longitude": "",
+        "address": ""
+      },
+      "price": 952.33,
+      "description": "HeadLine : Near Queenstown GardensLocation : A stay at Melbourne Lodge places you in the heart of Queenstown, within a 10-minute walk of Lake Wakatipu and Queenstown Gardens.  This bed & bre",
+      "rating": 3,
+      "relevancy": 99999,
+      "supplier_name": "Comfort Inn Melbourne Motor Lodge",
+      "hotel_info": {
+        "name": "Comfort Inn Melbourne Motor Lodge"
+      },
+      "prime_location_distance": [
+        {
+          "supllier_id": 1900,
+          "distance": 0.24,
+          "hotspot_name": "Queenstown Mall (City Center)"
+        },
+        {
+          "supllier_id": 1900,
+          "distance": 0.31,
+          "hotspot_name": "Queenstown Wharf (Lakefront)"
+        }
+      ]
+    }
+  ],
+  "search_index": "67ad69a410d3d7d0fabf27d2",
+  "totalRecords": 59
+}

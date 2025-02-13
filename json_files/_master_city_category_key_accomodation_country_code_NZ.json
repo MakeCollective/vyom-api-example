@@ -1,0 +1,2632 @@
+[
+  {
+    "id": 71,
+    "country_id": 161,
+    "city_name": "Abel Tasman",
+    "latitude": "-40.809769",
+    "longitude": "172.956390",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 67,
+    "country_id": 161,
+    "city_name": "Acacia Bay",
+    "latitude": "-38.702700",
+    "longitude": "176.031000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 87,
+    "country_id": 161,
+    "city_name": "Ahipara",
+    "latitude": "-35.171299",
+    "longitude": "173.153000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 40,
+    "country_id": 161,
+    "city_name": "Akaroa",
+    "latitude": "-43.805199",
+    "longitude": "172.966995",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 5935,
+    "country_id": 161,
+    "city_name": "Alexandra",
+    "latitude": "-45.232815",
+    "longitude": "169.372375",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "VCD"
+  },
+  {
+    "id": 5936,
+    "country_id": 161,
+    "city_name": "Amberley",
+    "latitude": "-43.154700",
+    "longitude": "172.730000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 80,
+    "country_id": 161,
+    "city_name": "Arrowtown",
+    "latitude": "-44.938801",
+    "longitude": "168.834000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "ZQN"
+  },
+  {
+    "id": 5938,
+    "country_id": 161,
+    "city_name": "Arthur Pass",
+    "latitude": "-42.944780",
+    "longitude": "171.563650",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 5939,
+    "country_id": 161,
+    "city_name": "Arthur Point",
+    "latitude": "-44.990200",
+    "longitude": "168.676000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5857,
+    "country_id": 161,
+    "city_name": "Ashburton",
+    "latitude": "-43.902699",
+    "longitude": "171.748993",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 1,
+    "country_id": 161,
+    "city_name": "Auckland",
+    "latitude": "-36.84853",
+    "longitude": "174.76349",
+    "search_radius": 50,
+    "division_id": 1,
+    "hbed_destination_code": "AKL"
+  },
+  {
+    "id": 5940,
+    "country_id": 161,
+    "city_name": "Balclutha",
+    "latitude": "-46.237942",
+    "longitude": "169.736740",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5941,
+    "country_id": 161,
+    "city_name": "Balfour",
+    "latitude": "-45.839500",
+    "longitude": "168.588000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5944,
+    "country_id": 161,
+    "city_name": "Beachlands",
+    "latitude": "-36.881800",
+    "longitude": "174.997000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "AKL"
+  },
+  {
+    "id": 8,
+    "country_id": 161,
+    "city_name": "Blenheim",
+    "latitude": "-41.511742",
+    "longitude": "173.953003",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "BHE"
+  },
+  {
+    "id": 5853,
+    "country_id": 161,
+    "city_name": "Bluff",
+    "latitude": "-46.599640",
+    "longitude": "168.342163",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "NZ2"
+  },
+  {
+    "id": 5945,
+    "country_id": 161,
+    "city_name": "Brightwater",
+    "latitude": "-41.373798",
+    "longitude": "173.106995",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5946,
+    "country_id": 161,
+    "city_name": "Bruce Bay",
+    "latitude": "-43.606400",
+    "longitude": "169.590000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "GMN"
+  },
+  {
+    "id": 5924,
+    "country_id": 161,
+    "city_name": "Brynderwyn",
+    "latitude": "-36.097070",
+    "longitude": "174.428630",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5925,
+    "country_id": 161,
+    "city_name": "Bulls",
+    "latitude": "-40.173630",
+    "longitude": "175.384888",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5947,
+    "country_id": 161,
+    "city_name": "Cable Bay",
+    "latitude": "-34.991402",
+    "longitude": "173.485992",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5923,
+    "country_id": 161,
+    "city_name": "Cambridge",
+    "latitude": "-37.894718",
+    "longitude": "175.470566",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "HBA"
+  },
+  {
+    "id": 5,
+    "country_id": 161,
+    "city_name": "Canterbury",
+    "latitude": "-43.464458",
+    "longitude": "171.791763",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5916,
+    "country_id": 161,
+    "city_name": "Cardrona",
+    "latitude": "-44.885689",
+    "longitude": "169.002319",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "ZQN"
+  },
+  {
+    "id": 5948,
+    "country_id": 161,
+    "city_name": "Carterton",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 60,
+    "country_id": 161,
+    "city_name": "Catlins",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 2,
+    "hbed_destination_code": "NZ2"
+  },
+  {
+    "id": 5949,
+    "country_id": 161,
+    "city_name": "Charleston",
+    "latitude": "-41.906510",
+    "longitude": "171.438480",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 3,
+    "country_id": 161,
+    "city_name": "Christchurch",
+    "latitude": "-43.532055",
+    "longitude": "172.636230",
+    "search_radius": 50,
+    "division_id": 2,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 5950,
+    "country_id": 161,
+    "city_name": "Clyde",
+    "latitude": "-45.187000",
+    "longitude": "169.317001",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5951,
+    "country_id": 161,
+    "city_name": "Collingwood",
+    "latitude": "-40.677300",
+    "longitude": "172.683000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "ATS"
+  },
+  {
+    "id": 5952,
+    "country_id": 161,
+    "city_name": "Cooks Beach",
+    "latitude": "-36.837898",
+    "longitude": "175.738998",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5926,
+    "country_id": 161,
+    "city_name": "Coopers Beach",
+    "latitude": "-34.992500",
+    "longitude": "173.509000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 18,
+    "country_id": 161,
+    "city_name": "Coromandel",
+    "latitude": "-36.757198",
+    "longitude": "175.498001",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "CMV"
+  },
+  {
+    "id": 93,
+    "country_id": 161,
+    "city_name": "Cromwell",
+    "latitude": "-45.037800",
+    "longitude": "169.198000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "ZQN"
+  },
+  {
+    "id": 5953,
+    "country_id": 161,
+    "city_name": "Dannevirke",
+    "latitude": "-40.208500",
+    "longitude": "176.102005",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 66,
+    "country_id": 161,
+    "city_name": "Darfield",
+    "latitude": "-43.489900",
+    "longitude": "172.113000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 91,
+    "country_id": 161,
+    "city_name": "Dargaville",
+    "latitude": "-35.940128",
+    "longitude": "173.869141",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "WRE"
+  },
+  {
+    "id": 5954,
+    "country_id": 161,
+    "city_name": "Drury",
+    "latitude": "-37.103400",
+    "longitude": "174.953000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 4,
+    "country_id": 161,
+    "city_name": "Dunedin",
+    "latitude": "-45.874400",
+    "longitude": "170.505000",
+    "search_radius": 50,
+    "division_id": 2,
+    "hbed_destination_code": "ZQN"
+  },
+  {
+    "id": 5955,
+    "country_id": 161,
+    "city_name": "Earnscleugh",
+    "latitude": "-45.217200",
+    "longitude": "169.312000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5956,
+    "country_id": 161,
+    "city_name": "Eltham",
+    "latitude": "-39.429700",
+    "longitude": "174.300000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5957,
+    "country_id": 161,
+    "city_name": "Fairlie",
+    "latitude": "-44.099600",
+    "longitude": "170.829000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 5958,
+    "country_id": 161,
+    "city_name": "Featherston",
+    "latitude": "-41.122815",
+    "longitude": "175.448146",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5959,
+    "country_id": 161,
+    "city_name": "Feilding",
+    "latitude": "-40.225899",
+    "longitude": "175.563995",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5960,
+    "country_id": 161,
+    "city_name": "Forsyth Island",
+    "latitude": "-40.967300",
+    "longitude": "174.075000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 39,
+    "country_id": 161,
+    "city_name": "Fox Glacier",
+    "latitude": "-43.464600",
+    "longitude": "170.018000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "GMN"
+  },
+  {
+    "id": 30,
+    "country_id": 161,
+    "city_name": "Franz Josef Glacier",
+    "latitude": "-43.433110",
+    "longitude": "170.170740",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "GMN"
+  },
+  {
+    "id": 89,
+    "country_id": 161,
+    "city_name": "Geraldine",
+    "latitude": "-44.092590",
+    "longitude": "171.245010",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 5906,
+    "country_id": 161,
+    "city_name": "Gisborne",
+    "latitude": "-38.667801",
+    "longitude": "178.028000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "GIS"
+  },
+  {
+    "id": 5961,
+    "country_id": 161,
+    "city_name": "Glenorchy",
+    "latitude": "-44.849900",
+    "longitude": "168.388000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "ZQN"
+  },
+  {
+    "id": 5962,
+    "country_id": 161,
+    "city_name": "Glenroy",
+    "latitude": "-42.169440",
+    "longitude": "172.369550",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5963,
+    "country_id": 161,
+    "city_name": "Glentanner",
+    "latitude": "-43.911280",
+    "longitude": "170.121460",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5914,
+    "country_id": 161,
+    "city_name": "Gore",
+    "latitude": "-46.096500",
+    "longitude": "168.945007",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "NZ2"
+  },
+  {
+    "id": 5964,
+    "country_id": 161,
+    "city_name": "Granity",
+    "latitude": "-41.626600",
+    "longitude": "171.857000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5965,
+    "country_id": 161,
+    "city_name": "Great Barrier Island",
+    "latitude": "-36.311860",
+    "longitude": "175.496490",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5966,
+    "country_id": 161,
+    "city_name": "Greenmeadows",
+    "latitude": "-39.526000",
+    "longitude": "176.862000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 29,
+    "country_id": 161,
+    "city_name": "Greymouth",
+    "latitude": "-42.450394",
+    "longitude": "171.210754",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "GMN"
+  },
+  {
+    "id": 5967,
+    "country_id": 161,
+    "city_name": "Greytown",
+    "latitude": "-41.080601",
+    "longitude": "175.460999",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5915,
+    "country_id": 161,
+    "city_name": "Haast",
+    "latitude": "-43.879250",
+    "longitude": "169.042679",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "GMN"
+  },
+  {
+    "id": 64,
+    "country_id": 161,
+    "city_name": "Hahei",
+    "latitude": "-36.839802",
+    "longitude": "175.802994",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "CMV"
+  },
+  {
+    "id": 41,
+    "country_id": 161,
+    "city_name": "Hamilton",
+    "latitude": "-37.787003",
+    "longitude": "175.279251",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "GP5"
+  },
+  {
+    "id": 50,
+    "country_id": 161,
+    "city_name": "Hanmer Springs",
+    "latitude": "-42.522500",
+    "longitude": "172.829000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5969,
+    "country_id": 161,
+    "city_name": "Hari Hari",
+    "latitude": "-41.250070",
+    "longitude": "173.096020",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5970,
+    "country_id": 161,
+    "city_name": "Haruru",
+    "latitude": "-35.280600",
+    "longitude": "174.058000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5918,
+    "country_id": 161,
+    "city_name": "Hastings",
+    "latitude": "-39.639580",
+    "longitude": "176.839233",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "NPE"
+  },
+  {
+    "id": 5972,
+    "country_id": 161,
+    "city_name": "Havelock North",
+    "latitude": "-39.669100",
+    "longitude": "176.878000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5973,
+    "country_id": 161,
+    "city_name": "Hawarden",
+    "latitude": "-42.923200",
+    "longitude": "172.639000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5974,
+    "country_id": 161,
+    "city_name": "Hawera",
+    "latitude": "-39.589700",
+    "longitude": "174.285000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "NZ3"
+  },
+  {
+    "id": 5975,
+    "country_id": 161,
+    "city_name": "Hawkes Bay",
+    "latitude": "-39.422401",
+    "longitude": "176.867996",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "NPE"
+  },
+  {
+    "id": 5977,
+    "country_id": 161,
+    "city_name": "Hicks Bay",
+    "latitude": "-37.593500",
+    "longitude": "178.292000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "ECT"
+  },
+  {
+    "id": 5978,
+    "country_id": 161,
+    "city_name": "Hikurangi",
+    "latitude": "-35.596000",
+    "longitude": "174.286000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5979,
+    "country_id": 161,
+    "city_name": "Himatangi Beach",
+    "latitude": "-40.370200",
+    "longitude": "175.239000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 96,
+    "country_id": 161,
+    "city_name": "Hokianga",
+    "latitude": "-35.935020",
+    "longitude": "173.861720",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 61,
+    "country_id": 161,
+    "city_name": "Hokitika",
+    "latitude": "-42.718300",
+    "longitude": "170.964005",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "GMN"
+  },
+  {
+    "id": 5980,
+    "country_id": 161,
+    "city_name": "Hot Water Beach",
+    "latitude": "-36.888800",
+    "longitude": "175.826000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "CMV"
+  },
+  {
+    "id": 5929,
+    "country_id": 161,
+    "city_name": "Huntly",
+    "latitude": "-37.559200",
+    "longitude": "175.158997",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 12,
+    "country_id": 161,
+    "city_name": "Invercargill",
+    "latitude": "-46.411301",
+    "longitude": "168.352524",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "NZ2"
+  },
+  {
+    "id": 5981,
+    "country_id": 161,
+    "city_name": "Kaikohe",
+    "latitude": "-35.407700",
+    "longitude": "173.800000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 43,
+    "country_id": 161,
+    "city_name": "Kaikoura",
+    "latitude": "-42.402699",
+    "longitude": "173.682999",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 104,
+    "country_id": 161,
+    "city_name": "Kaitaia",
+    "latitude": "-35.117329",
+    "longitude": "173.267563",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "WRE"
+  },
+  {
+    "id": 5982,
+    "country_id": 161,
+    "city_name": "Kaiteriteri",
+    "latitude": "-41.037600",
+    "longitude": "173.017000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 424,
+    "country_id": 161,
+    "city_name": "Kaiwaka",
+    "latitude": "-36.160889",
+    "longitude": "174.445892",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5983,
+    "country_id": 161,
+    "city_name": "Kaka Point",
+    "latitude": "-46.386400",
+    "longitude": "169.782000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5984,
+    "country_id": 161,
+    "city_name": "Kapiti Island",
+    "latitude": "-40.852200",
+    "longitude": "174.920000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5985,
+    "country_id": 161,
+    "city_name": "Karamea",
+    "latitude": "-41.247610",
+    "longitude": "172.111490",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "GMN"
+  },
+  {
+    "id": 5931,
+    "country_id": 161,
+    "city_name": "Karapiro",
+    "latitude": "-37.922300",
+    "longitude": "175.541000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5986,
+    "country_id": 161,
+    "city_name": "Karikari Peninsula",
+    "latitude": "-34.832330",
+    "longitude": "173.400940",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5932,
+    "country_id": 161,
+    "city_name": "Katikati",
+    "latitude": "-37.553699",
+    "longitude": "175.917007",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5930,
+    "country_id": 161,
+    "city_name": "Kawakawa",
+    "latitude": "-35.378400",
+    "longitude": "174.071880",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5987,
+    "country_id": 161,
+    "city_name": "Kawau Island",
+    "latitude": "-36.428930",
+    "longitude": "174.831810",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "KWA"
+  },
+  {
+    "id": 6091,
+    "country_id": 161,
+    "city_name": "Kawerau",
+    "latitude": "-38.086400",
+    "longitude": "176.701000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 73,
+    "country_id": 161,
+    "city_name": "Kerikeri",
+    "latitude": "-35.228298",
+    "longitude": "173.949997",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "WRE"
+  },
+  {
+    "id": 5988,
+    "country_id": 161,
+    "city_name": "Lake Coleridge",
+    "latitude": "-43.366000",
+    "longitude": "171.530000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 5989,
+    "country_id": 161,
+    "city_name": "Lake Moeraki",
+    "latitude": "-45.360300",
+    "longitude": "170.854000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 48,
+    "country_id": 161,
+    "city_name": "Lake Tekapo",
+    "latitude": "-44.004902",
+    "longitude": "170.477005",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 3659,
+    "country_id": 161,
+    "city_name": "Levin",
+    "latitude": "-40.622246",
+    "longitude": "175.286179",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "WRH"
+  },
+  {
+    "id": 11,
+    "country_id": 161,
+    "city_name": "Lincoln",
+    "latitude": "-43.640301",
+    "longitude": "172.485001",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5990,
+    "country_id": 161,
+    "city_name": "Little River",
+    "latitude": "-43.773700",
+    "longitude": "172.789000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "MLB"
+  },
+  {
+    "id": 5991,
+    "country_id": 161,
+    "city_name": "Lower Hutt",
+    "latitude": "-41.209164",
+    "longitude": "174.908051",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 102,
+    "country_id": 161,
+    "city_name": "Lumsden",
+    "latitude": "-45.739000",
+    "longitude": "168.442000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5992,
+    "country_id": 161,
+    "city_name": "Maketu",
+    "latitude": "-37.758900",
+    "longitude": "176.453000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 103,
+    "country_id": 161,
+    "city_name": "Manapouri",
+    "latitude": "-45.564700",
+    "longitude": "167.611000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "TEU"
+  },
+  {
+    "id": 5993,
+    "country_id": 161,
+    "city_name": "Mangakino",
+    "latitude": "-38.370000",
+    "longitude": "175.774000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5994,
+    "country_id": 161,
+    "city_name": "Mangatawhiri Valley",
+    "latitude": "-37.135290",
+    "longitude": "175.163810",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5995,
+    "country_id": 161,
+    "city_name": "Mangawhai",
+    "latitude": "-36.126100",
+    "longitude": "174.576000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "WRE"
+  },
+  {
+    "id": 887,
+    "country_id": 161,
+    "city_name": "Mangonui",
+    "latitude": "-34.990370",
+    "longitude": "173.536850",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "WRE"
+  },
+  {
+    "id": 54,
+    "country_id": 161,
+    "city_name": "Marahau",
+    "latitude": "-41.005380",
+    "longitude": "173.009990",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 53,
+    "country_id": 161,
+    "city_name": "Marlborough Sounds",
+    "latitude": "-41.226470",
+    "longitude": "173.925610",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "BHE"
+  },
+  {
+    "id": 92,
+    "country_id": 161,
+    "city_name": "Martinborough",
+    "latitude": "-41.219500",
+    "longitude": "175.458000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "NZ1"
+  },
+  {
+    "id": 5997,
+    "country_id": 161,
+    "city_name": "Marton",
+    "latitude": "-40.069400",
+    "longitude": "175.379000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5998,
+    "country_id": 161,
+    "city_name": "Maruia Springs",
+    "latitude": "-42.184200",
+    "longitude": "172.219000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 95,
+    "country_id": 161,
+    "city_name": "Masterton",
+    "latitude": "-40.949900",
+    "longitude": "175.664000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5999,
+    "country_id": 161,
+    "city_name": "Matakana",
+    "latitude": "-36.353700",
+    "longitude": "174.717000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "AKL"
+  },
+  {
+    "id": 76,
+    "country_id": 161,
+    "city_name": "Matakohe",
+    "latitude": "-36.125400",
+    "longitude": "174.188000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 45,
+    "country_id": 161,
+    "city_name": "Matamata",
+    "latitude": "-37.811199",
+    "longitude": "175.774002",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "RO1"
+  },
+  {
+    "id": 72,
+    "country_id": 161,
+    "city_name": "Merivale",
+    "latitude": "-43.513700",
+    "longitude": "172.623000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 84,
+    "country_id": 161,
+    "city_name": "Methven",
+    "latitude": "-43.633499",
+    "longitude": "171.647003",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 5852,
+    "country_id": 161,
+    "city_name": "Milford Sound",
+    "latitude": "-44.671800",
+    "longitude": "167.927000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5917,
+    "country_id": 161,
+    "city_name": "Milton",
+    "latitude": "-46.116160",
+    "longitude": "169.963020",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6000,
+    "country_id": 161,
+    "city_name": "Miranda",
+    "latitude": "-37.205200",
+    "longitude": "175.325000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6001,
+    "country_id": 161,
+    "city_name": "Moana",
+    "latitude": "-42.575800",
+    "longitude": "171.483000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "GMN"
+  },
+  {
+    "id": 6002,
+    "country_id": 161,
+    "city_name": "Morrinsville",
+    "latitude": "-37.656700",
+    "longitude": "175.529999",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6003,
+    "country_id": 161,
+    "city_name": "Mosgiel",
+    "latitude": "-45.873940",
+    "longitude": "170.347680",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 63,
+    "country_id": 161,
+    "city_name": "Motueka",
+    "latitude": "-41.110100",
+    "longitude": "173.011002",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "NSN"
+  },
+  {
+    "id": 35,
+    "country_id": 161,
+    "city_name": "Mount Cook",
+    "latitude": "-43.735470",
+    "longitude": "170.101070",
+    "search_radius": 20,
+    "division_id": 2,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 6004,
+    "country_id": 161,
+    "city_name": "Mount Cook National Park",
+    "latitude": "-43.735470",
+    "longitude": "170.101070",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 3235,
+    "country_id": 161,
+    "city_name": "Mount Maunganui",
+    "latitude": "-37.670300",
+    "longitude": "176.212006",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5922,
+    "country_id": 161,
+    "city_name": "Mount Ruapehu ",
+    "latitude": "-39.091250",
+    "longitude": "175.366120",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6005,
+    "country_id": 161,
+    "city_name": "Mount Somers",
+    "latitude": "-43.705300",
+    "longitude": "171.398000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6006,
+    "country_id": 161,
+    "city_name": "Murchison",
+    "latitude": "-41.800041",
+    "longitude": "172.325012",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "AU0"
+  },
+  {
+    "id": 37,
+    "country_id": 161,
+    "city_name": "Napier",
+    "latitude": "-39.486359",
+    "longitude": "176.919708",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "NPE"
+  },
+  {
+    "id": 3402,
+    "country_id": 161,
+    "city_name": "National Park",
+    "latitude": "-39.176701",
+    "longitude": "175.401993",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "NZ3"
+  },
+  {
+    "id": 6007,
+    "country_id": 161,
+    "city_name": "National Park Village",
+    "latitude": "-39.176700",
+    "longitude": "175.402000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 55,
+    "country_id": 161,
+    "city_name": "Nelson",
+    "latitude": "-41.270634",
+    "longitude": "173.283966",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "NSN"
+  },
+  {
+    "id": 13,
+    "country_id": 161,
+    "city_name": "New Plymouth",
+    "latitude": "-39.056690",
+    "longitude": "174.071686",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "NPL"
+  },
+  {
+    "id": 6008,
+    "country_id": 161,
+    "city_name": "Ngaruawahia",
+    "latitude": "-37.665500",
+    "longitude": "175.148000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 46,
+    "country_id": 161,
+    "city_name": "Ngongotaha",
+    "latitude": "-38.080900",
+    "longitude": "176.213000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 70,
+    "country_id": 161,
+    "city_name": "Northcote Point",
+    "latitude": "-36.819500",
+    "longitude": "174.748000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6009,
+    "country_id": 161,
+    "city_name": "Oakura",
+    "latitude": "-39.115500",
+    "longitude": "173.958000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 82,
+    "country_id": 161,
+    "city_name": "Oamaru",
+    "latitude": "-45.099400",
+    "longitude": "170.964386",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "ZQN"
+  },
+  {
+    "id": 98,
+    "country_id": 161,
+    "city_name": "Ohakune",
+    "latitude": "-39.417999",
+    "longitude": "175.397995",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "NZ3"
+  },
+  {
+    "id": 79,
+    "country_id": 161,
+    "city_name": "Ohinemutu",
+    "latitude": "-38.128100",
+    "longitude": "176.246000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 1381,
+    "country_id": 161,
+    "city_name": "Ohope",
+    "latitude": "-37.977000",
+    "longitude": "177.057000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "RO1"
+  },
+  {
+    "id": 6010,
+    "country_id": 161,
+    "city_name": "Ohope Beach",
+    "latitude": "-37.965753",
+    "longitude": "177.041114",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 62,
+    "country_id": 161,
+    "city_name": "Omarama",
+    "latitude": "-44.488300",
+    "longitude": "169.967000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "ZQN"
+  },
+  {
+    "id": 6011,
+    "country_id": 161,
+    "city_name": "Ophir",
+    "latitude": "-45.108900",
+    "longitude": "169.607000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "ZQN"
+  },
+  {
+    "id": 6012,
+    "country_id": 161,
+    "city_name": "Opononi",
+    "latitude": "-35.504500",
+    "longitude": "173.392000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 2582,
+    "country_id": 161,
+    "city_name": "Opotiki",
+    "latitude": "-38.006500",
+    "longitude": "177.287000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6013,
+    "country_id": 161,
+    "city_name": "Opua",
+    "latitude": "-35.316200",
+    "longitude": "174.118000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "WRE"
+  },
+  {
+    "id": 6014,
+    "country_id": 161,
+    "city_name": "Opunake",
+    "latitude": "-39.454700",
+    "longitude": "173.860000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5928,
+    "country_id": 161,
+    "city_name": "Orewa",
+    "latitude": "-36.582380",
+    "longitude": "174.689070",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "AKL"
+  },
+  {
+    "id": 6015,
+    "country_id": 161,
+    "city_name": "Ostend",
+    "latitude": "-36.794900",
+    "longitude": "175.048000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 74,
+    "country_id": 161,
+    "city_name": "Otorohanga",
+    "latitude": "-38.186900",
+    "longitude": "175.211000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "RTO"
+  },
+  {
+    "id": 6016,
+    "country_id": 161,
+    "city_name": "Outram",
+    "latitude": "-45.857100",
+    "longitude": "170.229000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6017,
+    "country_id": 161,
+    "city_name": "Owaka",
+    "latitude": "-46.450600",
+    "longitude": "169.659000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6018,
+    "country_id": 161,
+    "city_name": "Owhango",
+    "latitude": "-38.999400",
+    "longitude": "175.377000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6019,
+    "country_id": 161,
+    "city_name": "Paekakariki",
+    "latitude": "-40.981000",
+    "longitude": "174.957000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 19,
+    "country_id": 161,
+    "city_name": "Paihia",
+    "latitude": "-35.282100",
+    "longitude": "174.091000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "WRE"
+  },
+  {
+    "id": 6020,
+    "country_id": 161,
+    "city_name": "Pakiri",
+    "latitude": "-36.264200",
+    "longitude": "174.727000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 85,
+    "country_id": 161,
+    "city_name": "Palmerston North",
+    "latitude": "-40.356941",
+    "longitude": "175.609024",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "WAG"
+  },
+  {
+    "id": 6021,
+    "country_id": 161,
+    "city_name": "Papamoa",
+    "latitude": "-37.722691",
+    "longitude": "176.306839",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6022,
+    "country_id": 161,
+    "city_name": "Paraparaumu",
+    "latitude": "-40.908501",
+    "longitude": "175.011002",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "WLG"
+  },
+  {
+    "id": 86,
+    "country_id": 161,
+    "city_name": "Pauanui",
+    "latitude": "-37.024530",
+    "longitude": "175.861070",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "CMV"
+  },
+  {
+    "id": 23,
+    "country_id": 161,
+    "city_name": "Picton",
+    "latitude": "-41.291111",
+    "longitude": "174.008118",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "BHE"
+  },
+  {
+    "id": 6023,
+    "country_id": 161,
+    "city_name": "Plimmerton",
+    "latitude": "-41.080800",
+    "longitude": "174.864000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6024,
+    "country_id": 161,
+    "city_name": "Pohara",
+    "latitude": "-40.834400",
+    "longitude": "172.877000",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 4550,
+    "country_id": 161,
+    "city_name": "Porirua",
+    "latitude": "-41.131489",
+    "longitude": "174.839996",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "WLG"
+  },
+  {
+    "id": 6025,
+    "country_id": 161,
+    "city_name": "Port Charles",
+    "latitude": "-36.526199",
+    "longitude": "175.464005",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6027,
+    "country_id": 161,
+    "city_name": "Puhoi",
+    "latitude": "-36.513090",
+    "longitude": "174.661920",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6030,
+    "country_id": 161,
+    "city_name": "Pukenui",
+    "latitude": "-34.815000",
+    "longitude": "173.118000",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 83,
+    "country_id": 161,
+    "city_name": "Punakaiki",
+    "latitude": "-42.115130",
+    "longitude": "171.330220",
+    "search_radius": 30,
+    "division_id": 2,
+    "hbed_destination_code": "GMN"
+  },
+  {
+    "id": 14,
+    "country_id": 161,
+    "city_name": "Queenstown",
+    "latitude": "-45.031162",
+    "longitude": "168.662643",
+    "search_radius": 50,
+    "division_id": 2,
+    "hbed_destination_code": "HBA"
+  },
+  {
+    "id": 6031,
+    "country_id": 161,
+    "city_name": "Raetihi",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6032,
+    "country_id": 161,
+    "city_name": "Raglan",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 100,
+    "country_id": 161,
+    "city_name": "Rai Valley",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6033,
+    "country_id": 161,
+    "city_name": "Rakaia",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6034,
+    "country_id": 161,
+    "city_name": "Ranfurly",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6035,
+    "country_id": 161,
+    "city_name": "Rangiora",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 6036,
+    "country_id": 161,
+    "city_name": "Raumati Beach",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6037,
+    "country_id": 161,
+    "city_name": "Reefton",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "GMN"
+  },
+  {
+    "id": 6038,
+    "country_id": 161,
+    "city_name": "Remuera",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6039,
+    "country_id": 161,
+    "city_name": "Richmond",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "HBA"
+  },
+  {
+    "id": 6040,
+    "country_id": 161,
+    "city_name": "Ross",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "ASP"
+  },
+  {
+    "id": 34,
+    "country_id": 161,
+    "city_name": "Rotorua",
+    "latitude": "-38.136848",
+    "longitude": "176.249741",
+    "search_radius": 40,
+    "division_id": 1,
+    "hbed_destination_code": "RO1"
+  },
+  {
+    "id": 6041,
+    "country_id": 161,
+    "city_name": "Roxburgh",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6042,
+    "country_id": 161,
+    "city_name": "Runanga",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 52,
+    "country_id": 161,
+    "city_name": "Russell",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": "WRE"
+  },
+  {
+    "id": 5850,
+    "country_id": 161,
+    "city_name": "Sandspit",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6043,
+    "country_id": 161,
+    "city_name": "Silverdale",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "AKL"
+  },
+  {
+    "id": 6044,
+    "country_id": 161,
+    "city_name": "Springfield",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6045,
+    "country_id": 161,
+    "city_name": "St. Arnaud",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 59,
+    "country_id": 161,
+    "city_name": "Stewart Island",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 2,
+    "hbed_destination_code": "NZ2"
+  },
+  {
+    "id": 6046,
+    "country_id": 161,
+    "city_name": "Stratford",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "NPL"
+  },
+  {
+    "id": 6047,
+    "country_id": 161,
+    "city_name": "Surfdale,   Waiheke Island",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 68,
+    "country_id": 161,
+    "city_name": "Tai Tapu",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6048,
+    "country_id": 161,
+    "city_name": "Taihape",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "WAG"
+  },
+  {
+    "id": 5919,
+    "country_id": 161,
+    "city_name": "Taipa",
+    "latitude": "-34.995899",
+    "longitude": "173.466003",
+    "search_radius": 30,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6049,
+    "country_id": 161,
+    "city_name": "Taipa",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 69,
+    "country_id": 161,
+    "city_name": "Tairua",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6050,
+    "country_id": 161,
+    "city_name": "Takaka",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "NSN"
+  },
+  {
+    "id": 6051,
+    "country_id": 161,
+    "city_name": "Takanini",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 75,
+    "country_id": 161,
+    "city_name": "Takapuna",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": "AKL"
+  },
+  {
+    "id": 6052,
+    "country_id": 161,
+    "city_name": "Tamahere",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6053,
+    "country_id": 161,
+    "city_name": "Taumarunui",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "NZ3"
+  },
+  {
+    "id": 42,
+    "country_id": 161,
+    "city_name": "Taupo",
+    "latitude": "-38.685692",
+    "longitude": "176.070206",
+    "search_radius": 40,
+    "division_id": 1,
+    "hbed_destination_code": "NZ3"
+  },
+  {
+    "id": 58,
+    "country_id": 161,
+    "city_name": "Tauranga",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": "RO1"
+  },
+  {
+    "id": 44,
+    "country_id": 161,
+    "city_name": "Te Anau",
+    "latitude": "-45.416665",
+    "longitude": "167.7166638",
+    "search_radius": 20,
+    "division_id": 2,
+    "hbed_destination_code": "TEU"
+  },
+  {
+    "id": 6054,
+    "country_id": 161,
+    "city_name": "Te Awanga",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6055,
+    "country_id": 161,
+    "city_name": "Te Horo",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6056,
+    "country_id": 161,
+    "city_name": "Te Kaha",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6057,
+    "country_id": 161,
+    "city_name": "Te Kauwhata",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6058,
+    "country_id": 161,
+    "city_name": "Te Kuiti",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 5851,
+    "country_id": 161,
+    "city_name": "Te Puke",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6059,
+    "country_id": 161,
+    "city_name": "Te Puru",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "CMV"
+  },
+  {
+    "id": 5859,
+    "country_id": 161,
+    "city_name": "Tekapo",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 2,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6060,
+    "country_id": 161,
+    "city_name": "Temuka",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 81,
+    "country_id": 161,
+    "city_name": "Thames",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": "AKL"
+  },
+  {
+    "id": 88,
+    "country_id": 161,
+    "city_name": "Timaru",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 2,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 6061,
+    "country_id": 161,
+    "city_name": "Tirau",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6062,
+    "country_id": 161,
+    "city_name": "Tokaanu",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "NZ3"
+  },
+  {
+    "id": 6063,
+    "country_id": 161,
+    "city_name": "Tokanui",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6064,
+    "country_id": 161,
+    "city_name": "Tokoroa",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "RO1"
+  },
+  {
+    "id": 6065,
+    "country_id": 161,
+    "city_name": "Tongariro National Park",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "NZ3"
+  },
+  {
+    "id": 6066,
+    "country_id": 161,
+    "city_name": "Trentham",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6067,
+    "country_id": 161,
+    "city_name": "Tryphena",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6068,
+    "country_id": 161,
+    "city_name": "Tuakau",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "HLZ"
+  },
+  {
+    "id": 5912,
+    "country_id": 161,
+    "city_name": "Tuatapere",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "NZ2"
+  },
+  {
+    "id": 65,
+    "country_id": 161,
+    "city_name": "Turangi",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": "NZ3"
+  },
+  {
+    "id": 6069,
+    "country_id": 161,
+    "city_name": "Tutukaka",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "WRE"
+  },
+  {
+    "id": 49,
+    "country_id": 161,
+    "city_name": "Twizel",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 2,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 6070,
+    "country_id": 161,
+    "city_name": "Upper Moutere",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6071,
+    "country_id": 161,
+    "city_name": "Waiatarua",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6072,
+    "country_id": 161,
+    "city_name": "Waiau",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 78,
+    "country_id": 161,
+    "city_name": "Waiheke Island",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": "AKL"
+  },
+  {
+    "id": 6073,
+    "country_id": 161,
+    "city_name": "Waihi Beach",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6074,
+    "country_id": 161,
+    "city_name": "Waikanae",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "WLG"
+  },
+  {
+    "id": 6,
+    "country_id": 161,
+    "city_name": "Waikato",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6075,
+    "country_id": 161,
+    "city_name": "Waikava",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6076,
+    "country_id": 161,
+    "city_name": "Waimate",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "CHC"
+  },
+  {
+    "id": 6077,
+    "country_id": 161,
+    "city_name": "Waipu",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6078,
+    "country_id": 161,
+    "city_name": "Wairoa",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "NPE"
+  },
+  {
+    "id": 6079,
+    "country_id": 161,
+    "city_name": "Waitakere",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "AKL"
+  },
+  {
+    "id": 6080,
+    "country_id": 161,
+    "city_name": "Waitangi",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6081,
+    "country_id": 161,
+    "city_name": "Waitara",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 22,
+    "country_id": 161,
+    "city_name": "Waitomo",
+    "latitude": "-38.260700",
+    "longitude": "175.110992",
+    "search_radius": 30,
+    "division_id": 1,
+    "hbed_destination_code": "HLZ"
+  },
+  {
+    "id": 6082,
+    "country_id": 161,
+    "city_name": "Waiuku",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "AKL"
+  },
+  {
+    "id": 10,
+    "country_id": 161,
+    "city_name": "Wanaka",
+    "latitude": "-44.7000",
+    "longitude": "169.1500",
+    "search_radius": 20,
+    "division_id": 2,
+    "hbed_destination_code": "ZQN"
+  },
+  {
+    "id": 6083,
+    "country_id": 161,
+    "city_name": "Wanganui",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "WAG"
+  },
+  {
+    "id": 6084,
+    "country_id": 161,
+    "city_name": "Warkworth",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 24,
+    "country_id": 161,
+    "city_name": "Wellington",
+    "latitude": "-41.28664",
+    "longitude": "174.77557",
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": "ADL"
+  },
+  {
+    "id": 5908,
+    "country_id": 161,
+    "city_name": "Westport",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "GMN"
+  },
+  {
+    "id": 56,
+    "country_id": 161,
+    "city_name": "Whakapapa",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 51,
+    "country_id": 161,
+    "city_name": "Whakatane",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": "RO1"
+  },
+  {
+    "id": 94,
+    "country_id": 161,
+    "city_name": "Whangamata",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": "CMV"
+  },
+  {
+    "id": 90,
+    "country_id": 161,
+    "city_name": "Whanganui ",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6085,
+    "country_id": 161,
+    "city_name": "Whangaparaoa",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "AKL"
+  },
+  {
+    "id": 57,
+    "country_id": 161,
+    "city_name": "Whangarei",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 101,
+    "country_id": 161,
+    "city_name": "Whenuakite",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6086,
+    "country_id": 161,
+    "city_name": "Whitford",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 17,
+    "country_id": 161,
+    "city_name": "Whitianga",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 1,
+    "hbed_destination_code": "CMV"
+  },
+  {
+    "id": 6087,
+    "country_id": 161,
+    "city_name": "Winchester",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6088,
+    "country_id": 161,
+    "city_name": "Windwhistle",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": null
+  },
+  {
+    "id": 6089,
+    "country_id": 161,
+    "city_name": "Winton",
+    "latitude": null,
+    "longitude": null,
+    "search_radius": 20,
+    "division_id": 0,
+    "hbed_destination_code": "NZ2"
+  }
+]

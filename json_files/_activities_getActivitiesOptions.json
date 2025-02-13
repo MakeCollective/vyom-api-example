@@ -1,0 +1,120 @@
+{
+  "status": 200,
+  "type": "success",
+  "aOptionList": {
+    "adult": {
+      "product_id": 21635,
+      "fareLabelAdult": "Adult",
+      "label": "Adult",
+      "label_note": "Adult",
+      "unit_consumed_pax": 1,
+      "booking_unit_label": "Adult",
+      "selected_unit": 2,
+      "age_limit_label": "Adult",
+      "min_age": 14
+    },
+    "child": {
+      "product_id": 21635,
+      "fareLabelAdult": "Child",
+      "label": "Child",
+      "label_note": "",
+      "unit_consumed_pax": 1,
+      "booking_unit_label": "Child",
+      "selected_unit": 0,
+      "age_limit_label": "Child (Age should be less than 14)",
+      "max_age": 14,
+      "min_age": 4
+    },
+    "infant": {
+      "product_id": 21635,
+      "fareLabelAdult": "Infant",
+      "label": "Infant",
+      "label_note": "Infant",
+      "unit_consumed_pax": 1,
+      "age_limit_label": "Infant (Age should be less than 4)",
+      "booking_unit_label": "Infant",
+      "selected_unit": 0,
+      "max_age": 4,
+      "min_age": 0
+    }
+  },
+  "aBookingTime": [
+    {
+      "booking_time": "09:45:00 - 10:15:00",
+      "booking_time_label": "09:45 AM TO 10:15 AM"
+    },
+    {
+      "booking_time": "10:15:00 - 10:45:00",
+      "booking_time_label": "10:15 AM TO 10:45 AM"
+    },
+    {
+      "booking_time": "10:45:00 - 11:15:00",
+      "booking_time_label": "10:45 AM TO 11:15 AM"
+    },
+    {
+      "booking_time": "11:15:00 - 11:45:00",
+      "booking_time_label": "11:15 AM TO 11:45 AM"
+    },
+    {
+      "booking_time": "11:45:00 - 12:15:00",
+      "booking_time_label": "11:45 AM TO 12:15 PM"
+    },
+    {
+      "booking_time": "12:15:00 - 12:45:00",
+      "booking_time_label": "12:15 PM TO 12:45 PM"
+    },
+    {
+      "booking_time": "12:45:00 - 13:15:00",
+      "booking_time_label": "12:45 PM TO 01:15 PM"
+    },
+    {
+      "booking_time": "13:15:00 - 13:45:00",
+      "booking_time_label": "01:15 PM TO 01:45 PM"
+    },
+    {
+      "booking_time": "13:45:00 - 14:15:00",
+      "booking_time_label": "01:45 PM TO 02:15 PM"
+    },
+    {
+      "booking_time": "14:15:00 - 14:45:00",
+      "booking_time_label": "02:15 PM TO 02:45 PM"
+    },
+    {
+      "booking_time": "14:45:00 - 15:15:00",
+      "booking_time_label": "02:45 PM TO 03:15 PM"
+    },
+    {
+      "booking_time": "15:15:00 - 15:45:00",
+      "booking_time_label": "03:15 PM TO 03:45 PM"
+    },
+    {
+      "booking_time": "15:45:00 - 16:15:00",
+      "booking_time_label": "03:45 PM TO 04:15 PM"
+    },
+    {
+      "booking_time": "16:15:00 - 16:45:00",
+      "booking_time_label": "04:15 PM TO 04:45 PM"
+    },
+    {
+      "booking_time": "16:45:00 - 17:15:00",
+      "booking_time_label": "04:45 PM TO 05:15 PM"
+    },
+    {
+      "booking_time": "17:15:00 - 17:45:00",
+      "booking_time_label": "05:15 PM TO 05:45 PM"
+    },
+    {
+      "booking_time": "17:45:00 - 18:15:00",
+      "booking_time_label": "05:45 PM TO 06:15 PM"
+    },
+    {
+      "booking_time": "18:15:00 - 18:45:00",
+      "booking_time_label": "06:15 PM TO 06:45 PM"
+    },
+    {
+      "booking_time": "18:45:00 - 19:15:00",
+      "booking_time_label": "06:45 PM TO 07:15 PM"
+    }
+  ],
+  "activities_availability_id": "myi7GtDv8jA4mORQihLG12i4PSZEP4bl"
+}

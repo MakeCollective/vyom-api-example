@@ -1,0 +1,40 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "title": "WestCoast Happy Tour",
+      "type": "activity",
+      "transfers": "seat_in_coach",
+      "start_city_id": 5908,
+      "end_city_id": 5908,
+      "number_of_city": 2,
+      "number_of_nights": 2,
+      "number_of_days": 3,
+      "bookability": "open",
+      "dictated_start_date": "1970-01-01T00:00:00.000Z",
+      "dictated_end_date": "1970-01-01T00:00:00.000Z",
+      "inclusion": [
+        "The highlight of leaving a Westport pub after a great meal is so nice",
+        "Entering Westport is really really nice"
+      ],
+      "exclusion": [
+        "bad places",
+        "angry locals"
+      ],
+      "highlight": [
+        "The highlight of leaving a Westport pub after a great meal is so nice",
+        "Entering Westport is really really nice"
+      ],
+      "country_code": "NZ",
+      "id": "67972088045444f07263653c",
+      "package_id": "67972088045444f07263653c",
+      "start_city_name": "Westport",
+      "end_city_name": "Westport",
+      "package_status": 1,
+      "images": [],
+      "price": 0,
+      "city_summary": []
+    }
+  ],
+  "totalCount": 1
+}
