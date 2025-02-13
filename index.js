@@ -1,9 +1,19 @@
 const API_BASE = 'https://apiuat.makebookingsonline.com/api/v1';
 const NUXT_VYOM_KEY = 'ZGVtb2FwaTpEZW1vQXBpQEFwaQ==';
+const packageId = "67ac7a5e3e5b93a8877e9129"//"67972042045444f07263651a"; //"67ac7a5e3e5b93a8877e9129";
+
+async function writeJsonFile(fileName, data) {
+  const fs = require('fs');
+  fs.writeFileSync(fileName, JSON.stringify(data, null, 2));
+  return true;
+}
 
 // Helper function for API calls
 async function callApi(endpoint, method = 'POST', payload = null) {
-  const response = await fetch(`${API_BASE}${endpoint}`, {
+  const url = `${API_BASE}${endpoint}`;
+  console.log('Calling API:', url);
+  console.log(JSON.stringify(payload));
+  const response = await fetch(url, {
     method,
     headers: {
       'Content-Type': 'application/json',
@@ -18,12 +28,25 @@ async function callApi(endpoint, method = 'POST', payload = null) {
     throw new Error(`API call failed: ${endpoint} : ${response.statusText}`);
   }
 
-  return response.json();
+  const j = await response.json();
+  console.log(__dirname);
+  const filename = endpoint.replace(/\//g, '_').replace(/\?/g, '_').replace(/=/g, '_').replace(/&/g, '_');
+  writeJsonFile(`${__dirname}/json_files/${filename}.json`, j);
+  return j;
 }
+
 
 // Main integration flow
 async function runIntegrationTest() {
   try {
+    //0. Get cities
+    // get the cities that we can choose from
+    const cityResult = await callApi(
+      '/master/city?category_key=accomodation&country_code=NZ',
+      'GET'
+    );
+
+
     // 1. Search Packages
     const searchResult = await callApi('/packages/v2/search', 'POST', {
       country_code: "NZ",
@@ -34,13 +57,11 @@ async function runIntegrationTest() {
     //const packageId = searchResult.data[0].package_id;
 
     //console.log('Search successful. Package ID:', packageId);
-    const packageId = "67972042045444f07263651a";
     // 2. Get Package Details
     const detailsResult = await callApi('/packages/v2/details', 'POST', {
       package_id: packageId
     });
-    console.log('Package details retrieved');
-
+    //console.log('Package details retrieved', detailsResult);
     /*
       {
     "package_id" : "67972042045444f07263651a",
@@ -63,6 +84,7 @@ async function runIntegrationTest() {
       end_date: "2025-03-11",
       guest_count: [{ adult: [2], child: [0], child_age: ["0"] }]
     });
+
 
     const servicesNotAvailable = [];
     const servicesAvailable = [];
@@ -134,18 +156,11 @@ async function runIntegrationTest() {
       }
     }];
     
-
     //const updatedPriceResult = await callApi('/activities/getUpdatedPrice', 'POST', pricePayload);
     //console.log('Updated price:', updatedPriceResult.aPrice.total_price);
 
     const addActivityResult = await callApi('/packages/activities/addService', 'POST', activityPayload);
     console.log('Activity added');
-
-    // get the cities that we can choose from
-    const cityResult = await callApi(
-      '/master/city?category_key=accomodation&country_code=NZ',
-      'GET'
-    );
 
     console.log('Citys called');
 
@@ -188,7 +203,7 @@ async function runIntegrationTest() {
       service_day: 1,
       "number_of_nights":2,
       service_mode: "add",
-      //"package_service_id":0 not needed because we are adding a new service
+      "package_service_id":0,// not needed because we are adding a new service
     };
 
     console.log('accommodationPayload:', accommodationPayload);
@@ -202,9 +217,6 @@ async function runIntegrationTest() {
       "reference_number" : "1299",
       "reference_name" : "package add ",
     });
-    console.log('Added to cart');
-
-    return true;
     // 7. Confirm Booking
     const confirmResult = await callApi('/packages/confirm', 'POST', {
       itinerary_id: 0,
